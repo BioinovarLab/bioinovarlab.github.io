@@ -2,7 +2,9 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=windows-1252">
   </head>
-  <body>--- layout: base ---
+  <body>---
+    layout: base
+    ---
     <section>
       <h1 class="display-4 mt-3">Bioinovar Lab Members</h1>
       <b>Principal Investigator</b><br>
@@ -24,44 +26,14 @@
         <p><br>
         </p>
         <h2>Graduate Students</h2>
-        <table style="width: 100%;" border="0">
-          <tbody>
-            <tr>
-              <td>.....</td>
-              <td>.....</td>
-              <td>.....</td>
-            </tr>
-          </tbody>
-        </table>
         <p><br>
         </p>
-        <p> </p>
         <h2>Research Staff</h2>
-        <table border="0">
-          <tbody>
-            <tr>
-              <td>.....</td>
-            </tr>
-            <tr>
-              <td><br>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p> </p>
+        <p><br>
+        </p>
         <h2>Alumni</h2>
-        <table border="0">
-          <tbody>
-            <tr>
-              <td>.....</td>
-            </tr>
-            <tr>
-              <td><br>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p> </p>
+        <p><br>
+        </p>
         <p><br>
         </p>
         <p><br>
