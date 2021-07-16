@@ -1,51 +1,48 @@
 title: Bioinovar Lab
 description: BioInovar Laboratory Website
-url: https://bioinovarlab.github.io
+url: 'https://bioinovarlab.github.io'
 timezone: Europe/Paris
 permalink: pretty
 paginate: 5
-paginate_path: "/blog/page:num/"
-
+paginate_path: '/blog/page:num/'
 defaults:
   - scope:
-      path: "docs/*"
+      path: docs/*
     values:
-      layout: "docs-default"
+      layout: docs-default
   - scope:
-      path: "docs/boards/*"
+      path: docs/boards/*
     values:
-      layout: "docs-board"
+      layout: docs-board
   - scope:
-      path: "docs/deployment/*"
+      path: docs/deployment/*
     values:
-      layout: "docs-deployment"
+      layout: docs-deployment
   - scope:
-      path: "docs/os/*"
+      path: docs/os/*
     values:
-      layout: "docs-os"
+      layout: docs-os
   - scope:
-      path: "learn/tutorials/*"
+      path: learn/tutorials/*
     values:
-      layout: "tutorials"
+      layout: tutorials
   - scope:
-      path: ""
-      type: "posts"
+      path: ''
+      type: posts
     values:
-      layout: "post"
-      style: "reduced"
+      layout: post
+      style: reduced
   - scope:
       type: archives
     values:
-      layout: "archive"
+      layout: archive
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "default"
-
+      layout: default
 collections:
-    archives:
-        output: true
-
+  archives:
+    output: true
 plugins:
   - jekyll-sitemap
   - jekyll-feed
