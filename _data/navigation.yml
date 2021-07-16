@@ -1,10 +1,18 @@
 - name: Home
   link: /
+- name: Research
+  link: /Research/
+- name: Publications
+  link: /Publications/
+- name: Team
+  link: /Team/
 - name: Docs
   link: /docs/
 - name: Learn
   link: /learn/
 - name: Community
   link: /community/publications
+- name: Contact
+  link: /Contact/
 - name: Blog
   link: /blog/
