@@ -6,13 +6,7 @@
   link: /Publications/
 - name: Team
   link: /Team/
-- name: Docs
-  link: /docs/
-- name: Learn
-  link: /learn/
-- name: Community
-  link: /community/publications
-- name: Contact
-  link: /Contact/
 - name: Blog
   link: /blog/
+- name: Contact
+  link: /Contact/
