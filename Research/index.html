@@ -2,85 +2,137 @@
 layout: base
 ---
 <section>
- <h1 class="display-4 mt-3">The first experiment for beginners</h1>
- <div class="lead text-muted mt-3 pl-3">Microcontroller</div>
- <div class="row mx-0 mt-0 border">
-          <div class="col-lg-9 lead p-4 bg-dark text-white">
-              <p>The <strong>Webportal</strong> is the easiest and fastest way for beginners to launch an experiment and interact with the node.</p>
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HU0DrnIIdQU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              </div>
-   </div>
-   <div class="col p-4 bg-light">
-            <p class="lead">You can do exactly the same with the <strong>CLI tools</strong> from a terminal, allowing more advanced usage and automation.</p>
-            <p class="mt-3 text-center">
-                <a href="{{ site.baseurl }}{% link learn/getting-started/microcontroller.md %}">
-                    <i class="fas fa-terminal fa-3x border border-primary rounded-lg p-3"></i><br>
-                    First experiment with board based on a microcontroller
-                </a>
-            </p>
+    <div class="container my-5 py-5">
+        <div class="my-5">
+            <h1 class="display-2 text-muted text-center mb-0"><strong>Multi-OS</strong></h1>
+            <h1 class="display-4 text-center mt-0">Develop your firmware with your favorite OS</h1>
         </div>
-    </div>
-    <div class="lead text-muted mt-3 pl-3">Embedded Linux</div>
-    <div class="d-flex flex-row mt-0 border bg-light align-items-center">
-        <div class="lead p-4 flex-grow-1">
-            Compared to boards based on a microcontroller, using boards running an embedded Linux is a bit different. Run a first experiment, using CLI Tools again, to give it a try.
-        </div>
-        <div class="p-4 text-center">
-            <a href="{{ site.baseurl }}{% link learn/getting-started/embedded-linux.md %}" >
-                <i class="fas fa-terminal fa-3x border border-primary rounded-lg p-3 mb-2"></i><br>
-                First experiment with board running an embedded Linux
-            </a>
-        </div>
-    </div>
-</section>
+        <p class="lead text-center mx-auto w-75">Since you just need to bring your firmware for your experiment, you are free to choose your Operating System. Boards from the market may be supported by one or several. Some OS also supports IoT-LAB boards.</p>
 
-<section>
-    <h1 class="display-4 mt-5">Labs</h1>
-    <div class="row">
-        <div class="col-lg-8">
-            <img src="{{ 'assets/images/labs.png' | relative_url }}" class="img-fluid p-2">
-        </div>
-        <div class="col-lg-4">
-            <p>
-                The <strong>JupyterLab</strong> server provides a full featured
-                and <strong>zero-setup</strong> remote environment to learn how
-                to program operating systems such as <strong>RIOT</strong> &
-                <strong>Contiki-NG</strong> or how to use some of the
-                <strong>testbed features</strong>.
-            </p>
-            <a href="https://labs.iot-lab.info" class="btn btn-large btn-outline-primary" target="_blank">Go to labs.iot-lab.info <i class="fas fa-link"></i></a>
-        </div>
-    </div>
-</section>
+        <!-- <p class="text-center"><a href="#"> Learn more about OS usage <span class="small text-decoration-none"> <i class="fas fa-chevron-right"></i></span></a></p> -->
 
-<section>
-    <h1 class="display-4 mt-5">Tutorials</h1>
-    {%- for group in site.data.tutorials-nav -%}
-    {%- assign group_slug = group.title | slugify -%}
-    <h2 class="text-muted">{{ group.title }}</h2>
-    <div class="card-columns mb-5">
-        {%- for tuto in group.pages -%}
-        <div class="card mb-3">
-            <div class="card-body">
-            {% if tuto.link %}
-                <a href="{{ tuto.link }}">
-                    <h5 class="card-title">
-                        <small><i class="fas fa-external-link-alt"></i></small>
-                        {{ tuto.title }}
-                    </h5>
+        <div class="card-columns mt-5">
+        
+            <div class="card border-0 shadow m-3">
+                <a href="/docs/os/riot">
+                
+                <img class="card-img-top pt-3 px-3" src="/assets/images/oses/logo-riot.png" title="RIOT" alt="RIOT">
+                
                 </a>
-            {% else %}
-                <a href="{{ '/learn/tutorials' | relative_url }}/{{ group_slug }}/{{ tuto.page }}">
-                    <h5 class="card-title">
-                        {{ tuto.title }}
-                    </h5>
-                </a>
-            {% endif %}
-                <p class="card-text">{{ tuto.desc }}</p>
+                <div class="card-body">
+                    <hr>
+                    <p class="card-text"><strong>RIOT</strong> is a real-time multi-threading operating system that explicitly considers devices with minimal resources but eases development across the wide range of devices that are typically found in the Internet of Things.</p>
+                </div>
+                
+                
+                <div class="card-footer w-100 badge badge-primary">
+                    IoT-LAB board support
+                    
+                    <a href="/docs/boards/iot-lab-m3">
+                      <span class="badge badge-light">IoT-LAB M3</span>
+                    </a>
+                    
+                </div>
+                
             </div>
+        
+            <div class="card border-0 shadow m-3">
+                <a href="/docs/os/contiki-ng">
+                
+                <img class="card-img-top pt-3 px-3" src="/assets/images/oses/logo-contiking.png" title="Contiki-NG" alt="Contiki-NG">
+                
+                </a>
+                <div class="card-body">
+                    <hr>
+                    <p class="card-text"><strong>Contiki-NG</strong> is an open-source, cross-platform operating system for Next-Generation IoT devices.</p>
+                </div>
+                
+                
+                <div class="card-footer w-100 badge badge-primary">
+                    IoT-LAB board support
+                    
+                    <a href="/docs/boards/iot-lab-m3">
+                      <span class="badge badge-light">IoT-LAB M3</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        
+            <div class="card border-0 shadow m-3">
+                <a href="/docs/os/zephyr">
+                
+                <img class="card-img-top pt-3 px-3" src="/assets/images/oses/logo-zephyr.png" title="Zephyr" alt="Zephyr">
+                
+                </a>
+                <div class="card-body">
+                    <hr>
+                    <p class="card-text"><strong>Zephyr</strong>, a Linux Foundation hosted Collaboration Project, is an open source collaborative effort uniting leaders from across the industry to build a best-in-breed small, scalable, real-time operating system (RTOS) optimized for resource-constrained devices, across multiple architectures.</p>
+                </div>
+                
+                
+            </div>
+        
+            <div class="card border-0 shadow m-3">
+                <a href="/docs/os/freertos">
+                
+                <img class="card-img-top pt-3 px-3" src="/assets/images/oses/logo-freertos.jpg" title="FreeRTOS" alt="FreeRTOS">
+                
+                </a>
+                <div class="card-body">
+                    <hr>
+                    <p class="card-text"><strong>FreeRTOS</strong> is a real-time operating system for microcontrollers. Developed in partnership with the world’s leading chip companies over a 15-year period, and now downloaded every 175 seconds, FreeRTOS is a market-leading real-time operating system (RTOS) for microcontrollers and small microprocessors.</p>
+                </div>
+                
+                
+                <div class="card-footer w-100 badge badge-primary">
+                    IoT-LAB board support
+                    
+                    <a href="/docs/boards/iot-lab-m3">
+                      <span class="badge badge-light">IoT-LAB M3</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        
+            <div class="card border-0 shadow m-3">
+                <a href="/docs/os/micropython">
+                
+                <img class="card-img-top pt-3 px-3" src="/assets/images/oses/logo-micropython.jpg" title="MicroPython" alt="MicroPython">
+                
+                </a>
+                <div class="card-body">
+                    <hr>
+                    <p class="card-text"><strong>MicroPython</strong> is an implementation of the Python programming language designed for highly constrained hardware platforms such as microcontrollers.</p>
+                </div>
+                
+                
+            </div>
+        
+            <div class="card border-0 shadow m-3">
+                <a href="/docs/os/yocto">
+                
+                <img class="card-img-top pt-3 px-3" src="/assets/images/oses/logo-yocto.png" title="Yocto" alt="Yocto">
+                
+                </a>
+                <div class="card-body">
+                    <hr>
+                    <p class="card-text"><strong>Yocto</strong> is an open-source project from the Linux Foundation which allows the creation of embedded Linux distributions.</p>
+                </div>
+                
+                
+                <div class="card-footer w-100 badge badge-primary">
+                    IoT-LAB board support
+                    
+                    <a href="/docs/boards/iot-lab-a8-m3">
+                      <span class="badge badge-light">IoT-LAB A8-M3</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        
         </div>
-        {%- endfor -%}
     </div>
-    {%- endfor -%}
 </section>
