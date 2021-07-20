@@ -21,66 +21,16 @@ layout: base
             </p>
         </div>
     </div>
-    <div class="lead text-muted mt-3 pl-3">Embedded Linux</div>
+    <div class="lead text-muted mt-3 pl-3">About the lab</div>
     <div class="d-flex flex-row mt-0 border bg-light align-items-center">
         <div class="lead p-4 flex-grow-1">
-            Compared to boards based on a microcontroller, using boards running an embedded Linux is a bit different. Run a first experiment, using CLI Tools again, to give it a try.
+            mmmmmmmmmmmmmmmmmmmmm
         </div>
         <div class="p-4 text-center">
             <a href="{{ site.baseurl }}{% link learn/getting-started/embedded-linux.md %}" >
                 <i class="fas fa-terminal fa-3x border border-primary rounded-lg p-3 mb-2"></i><br>
-                First experiment with board running an embedded Linux
+                mmmmmmmmmmmmmmmm
             </a>
         </div>
     </div>
-</section>
-
-<section>
-    <h1 class="display-4 mt-5">Labs</h1>
-    <div class="row">
-        <div class="col-lg-8">
-            <img src="{{ 'assets/images/labs.png' | relative_url }}" class="img-fluid p-2">
-        </div>
-        <div class="col-lg-4">
-            <p>
-                The <strong>JupyterLab</strong> server provides a full featured
-                and <strong>zero-setup</strong> remote environment to learn how
-                to program operating systems such as <strong>RIOT</strong> &
-                <strong>Contiki-NG</strong> or how to use some of the
-                <strong>testbed features</strong>.
-            </p>
-            <a href="https://labs.iot-lab.info" class="btn btn-large btn-outline-primary" target="_blank">Go to labs.iot-lab.info <i class="fas fa-link"></i></a>
-        </div>
-    </div>
-</section>
-
-<section>
-    <h1 class="display-4 mt-5">Tutorials</h1>
-    {%- for group in site.data.tutorials-nav -%}
-    {%- assign group_slug = group.title | slugify -%}
-    <h2 class="text-muted">{{ group.title }}</h2>
-    <div class="card-columns mb-5">
-        {%- for tuto in group.pages -%}
-        <div class="card mb-3">
-            <div class="card-body">
-            {% if tuto.link %}
-                <a href="{{ tuto.link }}">
-                    <h5 class="card-title">
-                        <small><i class="fas fa-external-link-alt"></i></small>
-                        {{ tuto.title }}
-                    </h5>
-                </a>
-            {% else %}
-                <a href="{{ '/learn/tutorials' | relative_url }}/{{ group_slug }}/{{ tuto.page }}">
-                    <h5 class="card-title">
-                        {{ tuto.title }}
-                    </h5>
-                </a>
-            {% endif %}
-                <p class="card-text">{{ tuto.desc }}</p>
-            </div>
-        </div>
-        {%- endfor -%}
-    </div>
-    {%- endfor -%}
 </section>
