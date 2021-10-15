@@ -1,0 +1,3824 @@
+---
+references:
+- author:
+  - family: Beatriz Vermelho
+    given: Alane
+  - family: Giovanni De Simone
+    given: Salvatore
+  - dropping-particle: Masini
+    family: d'Avila-Levy
+    given: Claudia
+  - dropping-particle: Luis Souza do
+    family: Santos
+    given: Andre
+  - dropping-particle: Cristina Nogueira de
+    family: Melo
+    given: Ana
+  - family: Paes Silva
+    given: Floriano
+  - dropping-particle: Pinto da
+    family: Silva Bon
+    given: Elba
+  - family: Helena Branquinha
+    given: Marta
+  container-title: Current Enzyme Inhibition
+  id: beatriz2007trypanosomatidae
+  issue: 1
+  issued: 2007
+  page: 19-48
+  publisher: Bentham Science Publishers
+  title: "Trypanosomatidae peptidases: A target for drugs development"
+  title-short: Trypanosomatidae peptidases
+  type: article-journal
+  volume: 3
+- author:
+  - family: Capaci Rodrigues
+    given: Giseli
+  - family: Palermo Aguiar
+    given: Alcino
+  - dropping-particle: Lidio da
+    family: Silva Goncalves Vianez
+    given: Joao
+  - family: Macrae
+    given: Andrew
+  - dropping-particle: Cristina Nogueira de
+    family: Melo
+    given: Ana
+  - family: Beatriz Vermelho
+    given: Alane
+  container-title: Current Enzyme Inhibition
+  id: capaci2010peptidase
+  issue: 4
+  issued: 2010
+  page: 183-194
+  publisher: Bentham Science Publishers
+  title: Peptidase inhibitors as a possible therapeutic strategy for
+    chagas disease
+  type: article-journal
+  volume: 6
+- author:
+  - family: Beatriz Vermelho
+    given: Alane
+  container-title: Current Enzyme Inhibition
+  id: beatriz2011editorial
+  issue: 1
+  issued: 2011
+  page: 1-1
+  publisher: Bentham Science Publishers
+  title: "Editorial \\[hot topic: Enzyme inhibitors as new drugs for
+    microbial diseases control: Part II (guest editor: Alane beatriz
+    vermelho)\\]"
+  title-short: Editorial \[hot topic
+  type: article-journal
+  volume: 7
+- author:
+  - family: Beatriz Vermelho
+    given: Alane
+  container-title: Current Enzyme Inhibition
+  id: beatriz2010editorial
+  issue: 4
+  issued: 2010
+  page: 170-170
+  publisher: Bentham Science Publishers
+  title: "Editorial \\[hot topic: Enzyme inhibitors as new drugs for
+    microbial diseases control: Part i (guest editor: Alane beatriz
+    vermelho)\\]"
+  title-short: Editorial \[hot topic
+  type: article-journal
+  volume: 6
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Meirelles
+    given: Maria Nazareth Leal
+  - family: Lopes
+    given: Andréa
+  - family: Petinate
+    given: Simone Dias Gonçalves
+  - family: Chaia
+    given: André Adriano
+  - family: Branquinha
+    given: Marta Helena
+  container-title: Memorias do Instituto Oswaldo Cruz
+  id: vermelho1996detection
+  issue: 6
+  issued: 1996
+  page: 755-760
+  publisher: Fundação Oswaldo Cruz
+  title: Detection of extracellular proteases from microorganisms on
+    agar plates
+  type: article-journal
+  volume: 91
+- author:
+  - family: BRANQUINHA
+    given: MARTA H
+  - family: VERMELHO
+    given: ALANE B
+  - family: GOLDENBERG
+    given: SAMUEL
+  - family: BONALDO
+    given: MYRNA C
+  container-title: Journal of Eukaryotic Microbiology
+  id: branquinha1996ubiquity
+  issue: 2
+  issued: 1996
+  page: 131-135
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Ubiquity of cysteine-and metalloproteinase activities in a wide
+    range of trypanosomatids
+  type: article-journal
+  volume: 43
+- author:
+  - family: Pan
+    given: Peiwen
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Capaci Rodrigues
+    given: Giseli
+  - family: Scozzafava
+    given: Andrea
+  - family: Tolvanen
+    given: Martti EE
+  - family: Parkkila
+    given: Seppo
+  - family: Capasso
+    given: Clemente
+  - family: Supuran
+    given: Claudiu T
+  container-title: Journal of medicinal chemistry
+  id: pan2013cloning
+  issue: 4
+  issued: 2013
+  page: 1761-1771
+  publisher: American Chemical Society
+  title: Cloning, characterization, and sulfonamide and thiol inhibition
+    studies of an $\alpha$-carbonic anhydrase from trypanosoma cruzi,
+    the causative agent of chagas disease
+  type: article-journal
+  volume: 56
+- author:
+  - family: D'Avila-Levy
+    given: Claudia M
+  - family: Melo
+    given: Ana CN
+  - family: Vermelho
+    given: Alane B
+  - family: Branquinha
+    given: Marta H
+  container-title: FEMS microbiology letters
+  id: d2001differential
+  issue: 1
+  issued: 2001
+  page: 73-77
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Differential expression of proteolytic enzymes in
+    endosymbiont-harboring crithidia species
+  type: article-journal
+  volume: 202
+- author:
+  - dropping-particle: de
+    family: O Santos
+    given: Eidy
+  - family: Alves
+    given: Nelson
+  - family: Dias
+    given: Graciela M
+  - family: Mazotto
+    given: Ana Maria
+  - family: Vermelho
+    given: Alane
+  - family: Vora
+    given: Gary J
+  - family: Wilson
+    given: Bryan
+  - family: Beltran
+    given: Victor H
+  - family: Bourne
+    given: David G
+  - family: Le Roux
+    given: Frédérique
+  - literal: others
+  container-title: The ISME journal
+  id: de2011genomic
+  issue: 9
+  issued: 2011
+  page: 1471-1483
+  publisher: Nature Publishing Group
+  title: Genomic and proteomic analyses of the coral pathogen vibrio
+    coralliilyticus reveal a diverse virulence repertoire
+  type: article-journal
+  volume: 5
+- author:
+  - family: Mazotto
+    given: Ana Maria
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina N
+  - family: Macrae
+    given: Andrew
+  - family: Rosado
+    given: Alexandre Soares
+  - family: Peixoto
+    given: Raquel
+  - family: Cedrola
+    given: Sabrina ML
+  - family: Couri
+    given: Sônia
+  - family: Zingali
+    given: Russolina B
+  - family: Villa
+    given: Ana Lúcia V
+  - family: Rabinovitch
+    given: Leon
+  - literal: others
+  container-title: World Journal of Microbiology and Biotechnology
+  id: mazotto2011biodegradation
+  issue: 6
+  issued: 2011
+  page: 1355-1365
+  publisher: Springer Netherlands
+  title: Biodegradation of feather waste by extracellular keratinases
+    and gelatinases from bacillus spp.
+  type: article-journal
+  volume: 27
+- author:
+  - family: Barreto-Bergter
+    given: Eliana
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Hartmann
+    given: Rudolf
+  - family: Pohlentz
+    given: Gottfried
+  - family: Klein
+    given: Roger A
+  - family: Egge
+    given: Heinz
+  container-title: Molecular and biochemical parasitology
+  id: barreto1992structural
+  issue: 2
+  issued: 1992
+  page: 263-270
+  publisher: Elsevier
+  title: Structural characterization of neutral glycosphingolipids from
+    trypanosoma cruzi
+  type: article-journal
+  volume: 51
+- author:
+  - family: Petinate
+    given: Simone DG
+  - family: Martins
+    given: Rosana M
+  - family: Coelho
+    given: Rosalie RR
+  - family: Meirelles
+    given: Maria Nazareth L
+  - family: Branquinha
+    given: Marta Helena
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Memórias do Instituto Oswaldo Cruz
+  id: petinate1999influence
+  issue: 2
+  issued: 1999
+  page: 173-177
+  publisher: SciELO Brasil
+  title: Influence of growth medium in proteinase and pigment production
+    by streptomyces cyaneus
+  type: article-journal
+  volume: 94
+- author:
+  - family: d'Avila-Levy
+    given: Claudia M
+  - family: Souza
+    given: Rodrigo F
+  - family: Gomes
+    given: Rosana C
+  - family: Vermelho
+    given: Alane B
+  - family: Branquinha
+    given: Marta H
+  container-title: Archives of Biochemistry and Biophysics
+  id: d2003novel
+  issue: 1
+  issued: 2003
+  page: 1-8
+  publisher: Academic Press
+  title: A novel extracellular calcium-dependent cysteine proteinase
+    from crithidia deanei
+  type: article-journal
+  volume: 420
+- author:
+  - family: d'Avila-Levy
+    given: CM
+  - family: Araújo
+    given: FM
+  - family: Vermelho
+    given: AB
+  - family: Soares
+    given: RMA
+  - family: Santos
+    given: ALS
+  - family: Branquinha
+    given: MH
+  container-title: Parasitology
+  id: d2005proteolytic
+  issue: 4
+  issued: 2005
+  page: 413-420
+  publisher: Cambridge University Press
+  title: "Proteolytic expression in blastocrithidia culicis: Influence
+    of the endosymbiont and similarities with virulence factors of
+    pathogenic trypanosomatids"
+  title-short: Proteolytic expression in blastocrithidia culicis
+  type: article-journal
+  volume: 130
+- author:
+  - family: Santos
+    given: André LS
+  - family: d'Avila-Levy
+    given: Claudia M
+  - family: Elias
+    given: Camila GR
+  - family: Vermelho
+    given: Alane B
+  - family: Branquinha
+    given: Marta H
+  container-title: Microbes and infection
+  id: santos2007phytomonas
+  issue: 8
+  issued: 2007
+  page: 915-921
+  publisher: Elsevier Masson
+  title: "Phytomonas serpens: Immunological similarities with the human
+    trypanosomatid pathogens"
+  title-short: Phytomonas serpens
+  type: article-journal
+  volume: 9
+- author:
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: Giovanni-De-Simone
+    given: Salvatore
+  - family: Branquinha
+    given: Marta Helena
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Experimental parasitology
+  id: de2001crithidia
+  issue: 1
+  issued: 2001
+  page: 1-8
+  publisher: Academic Press
+  title: "Crithidia guilhermei: Purification and partial
+    characterization of a 62-kDa extracellular metalloproteinase"
+  title-short: Crithidia guilhermei
+  type: article-journal
+  volume: 97
+- author:
+  - family: Mazotto
+    given: AM
+  - family: Lage Cedrola
+    given: SM
+  - family: Lins
+    given: U
+  - family: Rosado
+    given: AS
+  - family: Silva
+    given: KT
+  - family: Chaves
+    given: JQ
+  - family: Rabinovitch
+    given: L
+  - family: Zingali
+    given: RB
+  - family: Vermelho
+    given: AB
+  container-title: Letters in applied microbiology
+  id: mazotto2010keratinolytic
+  issue: 1
+  issued: 2010
+  page: 89-96
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Keratinolytic activity of bacillus subtilis AMR using human
+    hair
+  type: article-journal
+  volume: 50
+- author:
+  - family: Petinate
+    given: SDG
+  - family: Branquinha
+    given: MH
+  - family: Coelho
+    given: RRR
+  - family: And
+    given: AB Vermelho
+  - family: Giovanni-De-Simone
+    given: S
+  container-title: Journal of applied microbiology
+  id: petinate1999purification
+  issue: 4
+  issued: 1999
+  page: 557-563
+  publisher: Blackwell Science Ltd Oxford, UK
+  title: Purification and partial characterization of an extracellular
+    serine-proteinase of streptomyces cyaneus isolated from brazilian
+    cerrado soil
+  type: article-journal
+  volume: 87
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Meirelles
+    given: Maria Nazareth Leal
+  container-title: Memórias do Instituto Oswaldo Cruz
+  id: vermelho1994sialoglycoconjugates
+  issue: 1
+  issued: 1994
+  page: 69-79
+  publisher: Fundação Oswaldo Cruz
+  title: "Sialoglycoconjugates in trypanosoma cruzi-host cell
+    interaction: Possible biological model-a review"
+  title-short: Sialoglycoconjugates in trypanosoma cruzi-host cell
+    interaction
+  type: article-journal
+  volume: 89
+- author:
+  - family: Meirelles
+    given: Maria de Nazareth Leal de
+  - family: Pereira
+    given: Mirian Claudia S
+  - family: Singer
+    given: Robert H
+  - family: Soeiro
+    given: Maria de Nazaré C
+  - family: Garzoni
+    given: Luciana R
+  - family: Silva
+    given: Dayse T
+  - family: Barbosa
+    given: Helene S
+  - family: Araujo-Jorge
+    given: Tania C
+  - family: Masuda
+    given: Masako O
+  - family: Capella
+    given: Marcia AM
+  - literal: others
+  container-title: Memórias do Instituto Oswaldo Cruz
+  id: meirelles1999trypanosoma
+  issued: 1999
+  page: 149-152
+  publisher: Fundação Oswaldo Cruz
+  title: "Trypanosoma cruzi-cardiomyocytes: New contributions regarding
+    a better understanding of this interaction"
+  title-short: Trypanosoma cruzi-cardiomyocytes
+  type: article-journal
+  volume: 94
+- author:
+  - family: Syrjänen
+    given: Leo
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: de
+    family: Almeida Rodrigues
+    given: Igor
+  - family: Corte-Real
+    given: Suzana
+  - family: Salonen
+    given: Terhi
+  - family: Pan
+    given: Peiwen
+  - family: Vullo
+    given: Daniela
+  - family: Parkkila
+    given: Seppo
+  - family: Capasso
+    given: Clemente
+  - family: Supuran
+    given: Claudiu T
+  container-title: Journal of medicinal chemistry
+  id: syrjanen2013cloning
+  issue: 18
+  issued: 2013
+  page: 7372-7381
+  publisher: American Chemical Society
+  title: Cloning, characterization, and inhibition studies of a
+    $\beta$-carbonic anhydrase from leishmania donovani chagasi, the
+    protozoan parasite responsible for leishmaniasis
+  type: article-journal
+  volume: 56
+- author:
+  - family: d'Avila-Levy
+    given: Claudia Masini
+  - family: Souza
+    given: Rodrigo F
+  - family: Gomes
+    given: Rosana C
+  - family: Vermelho
+    given: Alane B
+  - family: Branquinha
+    given: Marta H
+  container-title: Canadian journal of microbiology
+  id: d2003metalloproteinase
+  issue: 10
+  issued: 2003
+  page: 625-632
+  publisher: NRC Research Press
+  title: A metalloproteinase extracellularly released by crithidia
+    deanei
+  type: article-journal
+  volume: 49
+- author:
+  - family: D'Avila-Levy
+    given: Claudia Masini
+  - dropping-particle: de
+    family: Almeida Dias
+    given: Felipe
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: Martins
+    given: Juliana Lopes
+  - family: De Carvalho Santos Lopes
+    given: Angela Hampshire
+  - family: Dos Santos
+    given: André Luis Souza
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Branquinha
+    given: Marta Helena
+  container-title: FEMS microbiology letters
+  id: d2006insights
+  issue: 1
+  issued: 2006
+  page: 149-156
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Insights into the role of gp63-like proteins in lower
+    trypanosomatids
+  type: article-journal
+  volume: 254
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Mazotto
+    given: Ana Maria
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: Vieira
+    given: Flávia Helena Cardoso
+  - family: Duarte
+    given: Thalita Rodrigues
+  - family: Macrae
+    given: Andrew
+  - family: Nishikawa
+    given: Marı́lia Martins
+  - dropping-particle: da
+    family: Silva Bon
+    given: Elba Pinto
+  container-title: Mycopathologia
+  id: vermelho2010identification
+  issue: 1
+  issued: 2010
+  page: 57
+  publisher: Springer Netherlands
+  title: Identification of a candida parapsilosis strain producing
+    extracellular serine peptidase with keratinolytic activity
+  type: article-journal
+  volume: 169
+- author:
+  - family: Pan
+    given: Peiwen
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Scozzafava
+    given: Andrea
+  - family: Parkkila
+    given: Seppo
+  - family: Capasso
+    given: Clemente
+  - family: Supuran
+    given: Claudiu T
+  container-title: Bioorganic & medicinal chemistry
+  id: pan2013anion
+  issue: 15
+  issued: 2013
+  page: 4472-4476
+  publisher: Elsevier
+  title: Anion inhibition studies of the $\alpha$-carbonic anhydrase
+    from the protozoan pathogen trypanosoma cruzi, the causative agent
+    of chagas disease
+  type: article-journal
+  volume: 21
+- author:
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: Meirelles
+    given: Maria Nazareth L
+  - family: Porrozzi
+    given: Renato
+  - family: Costa
+    given: Juliana Dias
+  - family: Branquinha
+    given: Marta Helena
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Hepatology research
+  id: de2004reduced
+  issue: 1
+  issued: 2004
+  page: 49-56
+  publisher: No longer published by Elsevier
+  title: Reduced activity of matrix metalloproteinase-9 in trypanosoma
+    cruzi-infected mouse embryo hepatocyte cell
+  type: article-journal
+  volume: 28
+- author:
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: d'Avila-Levy
+    given: Claudia Masini
+  - family: Branquinha
+    given: Marta Helena
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Experimental parasitology
+  id: de2002crithidia
+  issue: 3-4
+  issued: 2002
+  page: 150-156
+  publisher: Academic Press
+  title: "Crithidia guilhermei: Gelatin-and haemoglobin-degrading
+    extracellular metalloproteinases"
+  title-short: Crithidia guilhermei
+  type: article-journal
+  volume: 102
+- author:
+  - dropping-particle: de
+    family: Melo
+    given: Ana C Nogueira
+  - family: d'Avila-Levy
+    given: Claudia M
+  - family: Dias
+    given: Felipe A
+  - family: Armada
+    given: Jorge Luı́s A
+  - family: Silva
+    given: Heriberto D
+  - family: Lopes
+    given: Angela HCS
+  - family: Santos
+    given: André LS
+  - family: Branquinha
+    given: Marta H
+  - family: Vermelho
+    given: Alane B
+  container-title: International journal for parasitology
+  id: de2006peptidases
+  issue: 4
+  issued: 2006
+  page: 415-422
+  publisher: Pergamon
+  title: "Peptidases and gp63-like proteins in herpetomonas megaseliae:
+    Possible involvement in the adhesion to the invertebrate host"
+  title-short: Peptidases and gp63-like proteins in herpetomonas
+    megaseliae
+  type: article-journal
+  volume: 36
+- author:
+  - family: Vermelho
+    given: Alane B
+  - family: Almeida
+    given: Flávia VS
+  - family: Bronzato
+    given: Leandro S
+  - family: Branquinha
+    given: Marta H
+  container-title: Canadian journal of microbiology
+  id: vermelho2003extracellular
+  issue: 3
+  issued: 2003
+  page: 221-224
+  publisher: NRC Research Press
+  title: Extracellular metalloproteinases in phytomonas serpens
+  type: article-journal
+  volume: 49
+- author:
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - dropping-particle: de
+    family: Souza
+    given: Edilma Paraguai
+  - family: Elias
+    given: Camila Guarany Ramalho
+  - dropping-particle: dos
+    family: Santos
+    given: André Luis Souza
+  - family: Branquinha
+    given: Marta Helena
+  - family: d'Ávila-Levy
+    given: Cláudia Masini
+  - dropping-particle: dos
+    family: Reis
+    given: Flávia Coelho Garcia
+  - family: Costa
+    given: Tatiana Ferreira Rocha
+  - dropping-particle: de
+    family: Araujo Lima
+    given: Ana Paula Cabral
+  - dropping-particle: de
+    family: Souza Pereira
+    given: Mirian Cláudia
+  - literal: others
+  container-title: Experimental Parasitology
+  id: de2010detection
+  issue: 3
+  issued: 2010
+  page: 256-263
+  publisher: Academic Press
+  title: Detection of matrix metallopeptidase-9-like proteins in
+    trypanosoma cruzi
+  type: article-journal
+  volume: 125
+- author:
+  - family: H Lopes
+    given: Angela
+  - family: Souto-Padrón
+    given: Thaı̈s
+  - family: A Dias
+    given: Felipe
+  - family: T Gomes
+    given: Marta
+  - family: C Rodrigues
+    given: Giseli
+  - family: T Zimmermann
+    given: Luciana
+  - dropping-particle: Alves e
+    family: Silva
+    given: Thiago L
+  - family: B Vermelho
+    given: Alane
+  container-title: The Open Parasitology Journal
+  id: h2010trypanosomatids
+  issue: 1
+  issued: 2010
+  title: "Trypanosomatids: Odd organisms, devastating diseases"
+  title-short: Trypanosomatids
+  type: article-journal
+  volume: 4
+- author:
+  - family: Costa
+    given: Juliana Dias
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: de
+    family: Nazareth Meirelles
+    given: Maria
+  - family: Porrozzi
+    given: Renato
+  container-title: Acta tropica
+  id: costa2008vitro
+  issue: 3
+  issued: 2008
+  page: 175-183
+  publisher: Elsevier
+  title: In vitro evidence for metallopeptidase participation in
+    hepatocyte damage induced by leishmania chagasi-infected macrophages
+  type: article-journal
+  volume: 106
+- author:
+  - family: Cedrola
+    given: Sabrina Martins Lage
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: Mazotto
+    given: Ana Maria
+  - family: Lins
+    given: Ulysses
+  - family: Zingali
+    given: Russolina Benedeta
+  - family: Rosado
+    given: Alexandre Soares
+  - family: Peixoto
+    given: Raquel S
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: World Journal of Microbiology and Biotechnology
+  id: cedrola2012keratinases
+  issue: 3
+  issued: 2012
+  page: 1259-1269
+  publisher: Springer Netherlands
+  title: Keratinases and sulfide from bacillus subtilis SLC to recycle
+    feather waste
+  type: article-journal
+  volume: 28
+- author:
+  - family: Barreto-Bergter
+    given: E
+  - family: Vermelho
+    given: AB
+  - family: Hogge
+    given: L
+  - family: Gorin
+    given: PA
+  container-title: Comparative biochemistry and physiology. B,
+    Comparative biochemistry
+  id: barreto1985glycolipid
+  issue: 3
+  issued: 1985
+  page: 543-545
+  title: Glycolipid components of epimastigote forms of trypanosoma
+    cruzi.
+  type: article-journal
+  volume: 80
+- author:
+  - family: Da Cunha
+    given: Marcel ML
+  - family: Dos Santos
+    given: Luana PB
+  - family: Dornelas-Ribeiro
+    given: Marcos
+  - family: Vermelho
+    given: Alane B
+  - family: Rozental
+    given: Sonia
+  container-title: FEMS Immunology & Medical Microbiology
+  id: da2009identification
+  issue: 3
+  issued: 2009
+  page: 396-403
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: "Identification, antifungal susceptibility and scanning
+    electron microscopy of a keratinolytic strain of rhodotorula
+    mucilaginosa: A primary causative agent of onychomycosis"
+  title-short: Identification, antifungal susceptibility and scanning
+    electron microscopy of a keratinolytic strain of rhodotorula
+    mucilaginosa
+  type: article-journal
+  volume: 55
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: de
+    family: Meirelles
+    given: Maria de Nazareth Leal
+  - family: Pereira
+    given: Mirian Claudia
+  - family: Pohlentz
+    given: Gottfried
+  - family: Barreto-Bergter
+    given: Eliana
+  container-title: Acta tropica
+  id: vermelho1997heart
+  issue: 3-4
+  issued: 1997
+  page: 131-143
+  publisher: Elsevier
+  title: Heart muscle cells share common neutral glycosphingolipids with
+    trypanosoma cruzi
+  type: article-journal
+  volume: 64
+- author:
+  - family: d'Avila-Levy
+    given: Claudia M
+  - family: Silva
+    given: Bianca A
+  - family: Hayashi
+    given: Elize A
+  - family: Vermelho
+    given: Alane B
+  - family: Alviano
+    given: Celuta S
+  - family: Saraiva
+    given: Elvira MB
+  - family: Branquinha
+    given: Marta H
+  - family: Santos
+    given: André LS
+  container-title: FEMS microbiology letters
+  id: d2005influence
+  issue: 2
+  issued: 2005
+  page: 279-286
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Influence of the endosymbiont of blastocrithidia culicis and
+    crithidia deanei on the glycoconjugate expression and on aedes
+    aegypti interaction
+  type: article-journal
+  volume: 252
+- author:
+  - family: Guzel-Akdemir
+    given: Ozlen
+  - family: Akdemir
+    given: Atilla
+  - family: Pan
+    given: Peiwen
+  - family: Vermelho
+    given: Alane B
+  - family: Parkkila
+    given: Seppo
+  - family: Scozzafava
+    given: Andrea
+  - family: Capasso
+    given: Clemente
+  - family: Supuran
+    given: Claudiu T
+  container-title: Journal of medicinal chemistry
+  id: guzel2013class
+  issue: 14
+  issued: 2013
+  page: 5773-5781
+  publisher: American Chemical Society
+  title: A class of sulfonamides with strong inhibitory action against
+    the $\alpha$-carbonic anhydrase from trypanosoma cruzi
+  type: article-journal
+  volume: 56
+- author:
+  - family: Vermelho
+    given: AB
+  - family: Hogge
+    given: L
+  - family: Barreto-Bergter
+    given: E
+  container-title: The Journal of protozoology
+  id: vermelho1986isolation
+  issue: 2
+  issued: 1986
+  page: 208-213
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Isolation and characterization of a neutral glycosphingolipid
+    from the epimastigote form of trypanosoma mega 1
+  type: article-journal
+  volume: 33
+- author:
+  - family: Almeida
+    given: Flavia VS
+  - family: Branquinha
+    given: Marta H
+  - family: Giovanni-De-Simone
+    given: Salvatore
+  - family: Vermelho
+    given: Alane B
+  container-title: Parasitology research
+  id: almeida2003extracellular
+  issue: 4
+  issued: 2003
+  page: 320-322
+  publisher: Springer-Verlag
+  title: Extracellular metalloproteinase activity in phytomonas françai
+  type: article-journal
+  volume: 89
+- author:
+  - dropping-particle: de
+    family: Almeida Rodrigues
+    given: Igor
+  - dropping-particle: da
+    family: Silva
+    given: Bianca Alcântara
+  - dropping-particle: dos
+    family: Santos
+    given: André Luis Souza
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Alviano
+    given: Celuta Sales
+  - family: Rosa
+    given: Maria do Socorro Santos
+  container-title: Parasitology research
+  id: de2010new
+  issue: 5
+  issued: 2010
+  page: 1249-1252
+  publisher: Springer-Verlag
+  title: "A new experimental culture medium for cultivation of
+    leishmania amazonensis: Its efficacy for the continuous in vitro
+    growth and differentiation of infective promastigote forms"
+  title-short: A new experimental culture medium for cultivation of
+    leishmania amazonensis
+  type: article-journal
+  volume: 106
+- author:
+  - family: D'Avila-Levy
+    given: Claudia Masini
+  - family: Araújo
+    given: Fernanda Miranda
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Branquinha
+    given: Marta Helena
+  - family: Alviano
+    given: Celuta Sales
+  - dropping-particle: de
+    family: Araújo Soares
+    given: Rosangela Maria
+  - dropping-particle: Souza dos
+    family: Santos
+    given: André Luis
+  container-title: FEMS microbiology letters
+  id: d2004differential
+  issue: 2
+  issued: 2004
+  page: 171-176
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: "Differential lectin recognition of glycoproteins in
+    choanomastigote-shaped trypanosomatids: Taxonomic implications"
+  title-short: Differential lectin recognition of glycoproteins in
+    choanomastigote-shaped trypanosomatids
+  type: article-journal
+  volume: 231
+- author:
+  - family: Previato
+    given: JO
+  - family: Andrade
+    given: AFB
+  - family: Vermelho
+    given: A
+  - family: Firmino
+    given: JC
+  - family: Mendonça-Previato
+    given: L
+  container-title: Mem Inst Oswaldo Cruz
+  id: previato1990evidence
+  issued: 1990
+  page: 38-39
+  title: Evidence for n-glycolylneuraminic acid incorporation by
+    trypanosoma cruzi from infected animal
+  type: article-journal
+  volume: 85
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Branquinha
+    given: Marta Helena
+  - family: dAvila-Levy
+    given: Claudia M
+  - family: Santos
+    given: André Luis Souza dos
+  - family: Dias
+    given: Edilma Paraguai de Souza
+  - family: Melo
+    given: Ana Cristina Nogueira de
+  - literal: others
+  id: vermelho2010biological
+  issued: 2010
+  publisher: Bentham Open
+  title: Biological roles of peptidases in trypanosomatids
+  type: article-journal
+- author:
+  - family: Mazotto
+    given: Ana Maria
+  - family: Coelho
+    given: Rosalie Reed Rodrigues
+  - family: Cedrola
+    given: Sabrina Martins Lage
+  - dropping-particle: de
+    family: Lima
+    given: Marcos Fábio
+  - family: Couri
+    given: Sonia
+  - dropping-particle: Paraguai de
+    family: Souza
+    given: Edilma
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Enzyme research
+  id: mazotto2011keratinase
+  issued: 2011
+  publisher: Hindawi
+  title: Keratinase production by three bacillus spp. Using feather meal
+    and whole feather as substrate in a submerged fermentation
+  type: article-journal
+  volume: 2011
+- author:
+  - family: Peixoto
+    given: RS
+  - family: Vermelho
+    given: AB
+  - family: Rosado
+    given: AS
+  container-title: Enzyme research
+  id: peixoto2011petroleum
+  issued: 2011
+  publisher: Hindawi
+  title: "Petroleum-degrading enzymes: Bioremediation and new prospects"
+  title-short: Petroleum-degrading enzymes
+  type: article-journal
+  volume: 2011
+- author:
+  - family: Duarte
+    given: TR
+  - family: Oliveira
+    given: SS
+  - family: Macrae
+    given: ASML
+  - family: Cedrola
+    given: SML
+  - family: Mazotto
+    given: AM
+  - family: Souza
+    given: EP
+  - family: Melo
+    given: ACN
+  - family: Vermelho
+    given: AB
+  container-title: Brazilian Journal of medical and biological research
+  id: duarte2011increased
+  issued: 2011
+  page: 212-216
+  publisher: Associação Brasileira de Divulgação Cientı́fica
+  title: Increased expression of keratinase and other peptidases by
+    candida parapsilosis mutants
+  type: article-journal
+  volume: 44
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Bergter
+    given: Eliana Barreto
+  - family: Pereira
+    given: Miriam Claudia
+  - dropping-particle: de
+    family: Meirelles
+    given: Maria Nazareth Leal
+  container-title: Acta tropica
+  id: vermelho1992glycolipid
+  issue: 1
+  issued: 1992
+  page: 17-25
+  publisher: Elsevier
+  title: Glycolipid and protein profiles of normal and trypanosoma cruzi
+    infected heart muscle cells
+  type: article-journal
+  volume: 52
+- author:
+  - family: Nogueira De Melo
+    given: Ana Cristina
+  - family: Dornelas-Ribeiro
+    given: Marcos
+  - family: Paraguai De Souza
+    given: Edilma
+  - family: Macrae
+    given: Andrew
+  - family: Fracalanzza
+    given: Sergio Eduardo Longo
+  - family: Vermelho
+    given: Alane B
+  container-title: FEMS yeast research
+  id: nogueira2007peptidase
+  issue: 6
+  issued: 2007
+  page: 1004-1012
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Peptidase profiles from non-albicans candida spp. Isolated from
+    the blood of a patient with chronic myeloid leukemia and another
+    with sickle cell disease
+  type: article-journal
+  volume: 7
+- author:
+  - family: Lopes
+    given: Andréa
+  - family: Coelho
+    given: Rosalie RR
+  - family: Meirelles
+    given: Maria Nazareth L
+  - family: Branquinha
+    given: Marta Helena
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Memórias do Instituto Oswaldo Cruz
+  id: lopes1999extracellular
+  issued: 1999
+  page: 763-770
+  publisher: Instituto Oswaldo Cruz, Ministério da Saúde
+  title: "Extracellular serine-proteinases isolated from streptomyces
+    alboniger: Partial characterization and effect of aprotinin on
+    cellular structure"
+  title-short: Extracellular serine-proteinases isolated from
+    streptomyces alboniger
+  type: article-journal
+  volume: 94
+- author:
+  - family: Rodrigues
+    given: Giseli Capaci
+  - family: Feijo
+    given: Daniel Ferreira
+  - family: Bozza
+    given: Marcelo Torres
+  - family: Pan
+    given: Peiwen
+  - family: Vullo
+    given: Daniela
+  - family: Parkkila
+    given: Seppo
+  - family: Supuran
+    given: Claudiu T
+  - family: Capasso
+    given: Clemente
+  - family: Aguiar
+    given: Alcino Palermo
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Journal of medicinal chemistry
+  id: rodrigues2014design
+  issue: 2
+  issued: 2014
+  page: 298-308
+  publisher: American Chemical Society
+  title: Design, synthesis, and evaluation of hydroxamic acid
+    derivatives as promising agents for the management of chagas disease
+  type: article-journal
+  volume: 57
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Bastos
+    given: Maria do Carmo de Freire
+  - family: Sá
+    given: Marta Helena Branquinha de
+  container-title: Bacteriologia geral
+  id: vermelho2007bacteriologia
+  issued: 2007
+  page: 582-582
+  title: Bacteriologia geral
+  type: chapter
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Melo
+    given: ACN
+  - family: Sá
+    given: MHB
+  - family: Santos
+    given: ALS
+  - family: d'Avila-Levy
+    given: Claudia Masini
+  - family: Couri
+    given: Sônia
+  - family: Bon
+    given: Elba PS
+  container-title: Enzimas em biotecnologia-Produção, aplicações e
+    mercado
+  id: vermelho2008enzimas
+  issued: 2008
+  page: 273-287
+  title: "Enzimas proteolı́ticas: Aplicações biotecnológicas"
+  title-short: Enzimas proteolı́ticas
+  type: article-journal
+- author:
+  - family: Branquinha
+    given: Marta H
+  - family: Vermelho
+    given: Alane B
+  - family: Almeida
+    given: Igor C
+  - family: Mehlert
+    given: Angela
+  - family: Ferguson
+    given: Michael AJ
+  container-title: Molecular and biochemical parasitology
+  id: branquinha1999structural
+  issue: 1
+  issued: 1999
+  page: 179-189
+  publisher: Elsevier
+  title: Structural studies on the polar glycoinositol phospholipids of
+    trypanosoma (schizotrypanum) dionisii from bats
+  type: article-journal
+  volume: 102
+- author:
+  - family: Branquinha
+    given: MH
+  - family: Vermelho
+    given: AB
+  - family: Goldenberg
+    given: S
+  - family: Bonaldo
+    given: Myrna Cristina
+  container-title: Brazilian journal of medical and biological research=
+    Revista brasileira de pesquisas medicas e biologicas
+  id: branquinha1994characterization
+  issue: 2
+  issued: 1994
+  page: 495-499
+  title: Characterization of proteinases in trypanosomatids.
+  type: article-journal
+  volume: 27
+- author:
+  - family: Branquinha
+    given: Marta Helena
+  - family: Bergter
+    given: Eliana Barreto
+  - dropping-particle: de
+    family: Meirelles
+    given: Maria Nazareth Leal
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Parasitology research
+  id: branquinha1994glycolipid
+  issue: 4
+  issued: 1994
+  page: 336-341
+  publisher: Springer-Verlag
+  title: Glycolipid and protein profiles in trypanosomatids
+  type: article-journal
+  volume: 80
+- author:
+  - family: Lopes
+    given: Bárbara Gabriela Brum
+  - family: Dos Santos
+    given: André Luis Souza
+  - family: Bezerra
+    given: Cláudia de Carvalho Falci
+  - family: Wanke
+    given: Bodo
+  - dropping-particle: dos
+    family: Santos Lazéra
+    given: Márcia
+  - family: Nishikawa
+    given: Marı́lia Martins
+  - family: Mazotto
+    given: Ana Maria
+  - family: Kussumi
+    given: Vânia Monteiro
+  - family: Haido
+    given: Rosa Maria Tavares
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Mycopathologia
+  id: lopes200825
+  issue: 1
+  issued: 2008
+  page: 35-40
+  publisher: Springer Netherlands
+  title: A 25-kDa serine peptidase with keratinolytic activity secreted
+    by coccidioides immitis
+  type: article-journal
+  volume: 166
+- author:
+  - family: Mendes
+    given: Leonardo Brantes Bacellar
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Biotechnology for biofuels
+  id: mendes2013allelopathy
+  issue: 1
+  issued: 2013
+  page: 1-14
+  publisher: BioMed Central
+  title: Allelopathy as a potential strategy to improve microalgae
+    cultivation
+  type: article-journal
+  volume: 6
+- author:
+  - family: Vermelho
+    given: AB
+  - family: Barreto-Bergter
+    given: E
+  - family: Pereira
+    given: MC
+  - family: Silva
+    given: SM
+  - family: LEAL MEIRELLES
+    given: MN
+  container-title: Biomedical letters
+  id: vermelho1992role
+  issue: 185
+  issued: 1992
+  page: 113-123
+  title: Role of a glycosphingolipid isolated from trypanosoma cruzi on
+    the interaction of t. Cruzi with heart muscle cells
+  type: article-journal
+  volume: 47
+- author:
+  - dropping-particle: de
+    family: Santa-Izabel
+    given: Aline
+  - family: Vermelho
+    given: Alane B
+  - family: Branquinha
+    given: Marta H
+  container-title: Parasitology research
+  id: de2004proteolytic
+  issue: 5
+  issued: 2004
+  page: 342-348
+  publisher: Springer-Verlag
+  title: "Proteolytic activities in trypanosoma rangeli and stercorarian
+    trypanosomes: Taxonomic implications"
+  title-short: Proteolytic activities in trypanosoma rangeli and
+    stercorarian trypanosomes
+  type: article-journal
+  volume: 94
+- author:
+  - family: Branquinha
+    given: Marta H
+  - family: Meirelles
+    given: Maria Nazareth L
+  - family: Lopes
+    given: Andrea
+  - family: Moreira
+    given: Cristiane
+  - family: Vermelho
+    given: Alane B
+  container-title: Current microbiology
+  id: branquinha1995use
+  issue: 2
+  issued: 1995
+  page: 77-82
+  publisher: Springer-Verlag
+  title: Use of glycoconjugates for trypanosomatid taxonomy
+  type: article-journal
+  volume: 30
+- author:
+  - family: Beatriz Vermelho
+    given: Alane
+  - dropping-particle: Nogueira de
+    family: Melo
+    given: Ana Cristina
+  - family: Araújo Soares
+    given: Rosangela
+  - family: Sales Alviano
+    given: Daniela
+  - family: Paraguai Souza
+    given: Edilma
+  - family: Souto-Padrón
+    given: Thaı̈s
+  - family: Capaci Rodrigues
+    given: Giseli
+  - dropping-particle: Palermo de
+    family: Aguiar
+    given: Alcino
+  - family: Claudia Pereira
+    given: Mirian
+  - family: Ferreira-Pereira
+    given: Antonio
+  - literal: others
+  container-title: The Open Parasitology Journal
+  id: beatriz2010trypanosoma
+  issue: 1
+  issued: 2010
+  title: "Trypanosoma cruzi peptidases: An overview"
+  title-short: Trypanosoma cruzi peptidases
+  type: article-journal
+  volume: 4
+- author:
+  - family: Abreu Filho
+    given: Benı́cio A
+  - family: Dias Filho
+    given: Benedito P
+  - family: Vermelho
+    given: Alane B
+  - family: Jankevicius
+    given: Shiduca I
+  - family: Jankevicius
+    given: José V
+  - dropping-particle: dos
+    family: Santos
+    given: Regina L
+  container-title: Parasitology research
+  id: abreu2001surface
+  issue: 2
+  issued: 2001
+  page: 138-144
+  publisher: Springer-Verlag
+  title: Surface component characterization as taxonomic tools for
+    phytomonas spp identification
+  type: article-journal
+  volume: 87
+- author:
+  - family: Villa
+    given: Ana Lúcia Vazquez
+  - family: Aragão
+    given: Márcia Regina Senrra
+  - family: Dos Santos
+    given: Elisabete Pereira
+  - family: Mazotto
+    given: Ana Maria
+  - family: Zingali
+    given: Russolina B
+  - family: De Souza
+    given: Edilma Paraguai
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Bmc Biotechnology
+  id: villa2013feather
+  issue: 1
+  issued: 2013
+  page: 1-11
+  publisher: BioMed Central
+  title: "Feather keratin hydrolysates obtained from microbial
+    keratinases: Effect on hair fiber"
+  title-short: Feather keratin hydrolysates obtained from microbial
+    keratinases
+  type: article-journal
+  volume: 13
+- author:
+  - family: Rodrigues
+    given: Igor A
+  - family: Azevedo
+    given: Mariana MB
+  - family: Chaves
+    given: Francisco CM
+  - family: Bizzo
+    given: Humberto R
+  - family: Corte-Real
+    given: Suzana
+  - family: Alviano
+    given: Daniela S
+  - family: Alviano
+    given: Celuta S
+  - family: Rosa
+    given: Maria SS
+  - family: Vermelho
+    given: Alane B
+  container-title: BMC complementary and alternative medicine
+  id: rodrigues2013vitro
+  issue: 1
+  issued: 2013
+  page: 1-9
+  publisher: BioMed Central
+  title: In vitro cytocidal effects of the essential oil from croton
+    cajucara (red sacaca) and its major constituent 7-hydroxycalamenene
+    against leishmania chagasi
+  type: article-journal
+  volume: 13
+- author:
+  - family: Chaia
+    given: André Adriano
+  - family: Giovanni-De-Simone
+    given: Salvatore
+  - family: Petinate
+    given: Simone Dias Gonçalves
+  - family: Lima
+    given: Ana Paula Cabral de Araújo
+  - family: Branquinha
+    given: Marta Helena
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Brazilian Journal of Microbiology
+  id: chaia2000identification
+  issued: 2000
+  page: 25-29
+  publisher: Sociedade Brasileira de Microbiologia
+  title: Identification and properties of two extracellular proteases
+    from brevundimonas diminuta
+  type: article-journal
+  volume: 31
+- author:
+  - family: Barreto-Bergter
+    given: E
+  - family: Branquinha
+    given: MH
+  - family: Pohlentz
+    given: G
+  - family: Vermelho
+    given: AB
+  container-title: The Journal of eukaryotic microbiology
+  id: barreto1996monohexosylceramides
+  issue: 6
+  issued: 1996
+  page: 486-488
+  title: Monohexosylceramides of trypanosoma dionisii.
+  type: article-journal
+  volume: 43
+- author:
+  - family: D'AVILA-LEVY
+    given: CLAUDIA M
+  - family: Volotao
+    given: Aline CC
+  - family: Araujo
+    given: Fernanda M
+  - family: De Jesus
+    given: Jose B
+  - family: Motta
+    given: Maria Cristina M
+  - family: Vermelho
+    given: Alane B
+  - family: Santos
+    given: Andre LS
+  - family: Branquinha
+    given: Marta H
+  container-title: Journal of Eukaryotic Microbiology
+  id: d2009bodo
+  issue: 5
+  issued: 2009
+  page: 454-458
+  publisher: Blackwell Publishing Inc Malden, USA
+  title: Bodo sp., A free-living flagellate, expresses divergent
+    proteolytic activities from the closely related parasitic
+    trypanosomatids
+  type: article-journal
+  volume: 56
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Supuran
+    given: Claudiu T
+  - family: Guisan
+    given: Jose M
+  container-title: Enzyme research
+  id: vermelho2012microbial
+  issued: 2012
+  publisher: Hindawi
+  title: "Microbial enzyme: Applications in industry and in
+    bioremediation"
+  title-short: Microbial enzyme
+  type: article-journal
+  volume: 2012
+- author:
+  - family: H Lopes
+    given: Angela
+  - family: T Gomes
+    given: Marta
+  - family: L Dutra
+    given: Fernando
+  - family: B Vermelho
+    given: Alane
+  - family: R Meyer-Fernandes
+    given: José
+  - family: C Silva-Neto
+    given: Mário A
+  - family: Souto-Padrón
+    given: Thaı̈s
+  - family: P Vieira
+    given: Danielle
+  container-title: The Open Parasitology Journal
+  id: h2010intracellular
+  issue: 1
+  issued: 2010
+  title: Intracellular signaling pathways involved in cell
+    differentiation in trypanosomatids
+  type: article-journal
+  volume: 4
+- author:
+  - family: Mazotto
+    given: Ana Maria
+  - family: Couri
+    given: Sonia
+  - family: Damaso
+    given: Mônica CT
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: International Biodeterioration & Biodegradation
+  id: mazotto2013degradation
+  issued: 2013
+  page: 189-195
+  publisher: Elsevier
+  title: "Degradation of feather waste by aspergillus niger keratinases:
+    Comparison of submerged and solid-state fermentation"
+  title-short: Degradation of feather waste by aspergillus niger
+    keratinases
+  type: article-journal
+  volume: 85
+- author:
+  - family: Rodrigues
+    given: Igor A
+  - family: Azevedo
+    given: Mariana
+  - family: Chaves
+    given: Francisco
+  - family: Alviano
+    given: Celuta S
+  - family: Alviano
+    given: Daniela S
+  - family: Vermelho
+    given: Alane B
+  container-title: BioMed research international
+  id: rodrigues2014arrabidaea
+  issued: 2014
+  publisher: Hindawi
+  title: Arrabidaea chica hexanic extract induces mitochondrion damage
+    and peptidase inhibition on leishmania spp.
+  type: article-journal
+  volume: 2014
+- author:
+  - family: Santa-Izabel
+    given: Aline
+  - family: Vermelho
+    given: Alane B
+  - family: Branquinha
+    given: Marta H
+  container-title: Parasitology Research
+  id: santa2004proteolytic
+  issue: 94
+  issued: 2004
+  page: 342-348
+  title: "Proteolytic activities in trypanosoma rangeli and stercorarian
+    trypanosomes: Taxonomic implications"
+  title-short: Proteolytic activities in trypanosoma rangeli and
+    stercorarian trypanosomes
+  type: article-journal
+  volume: 5
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Villa
+    given: Ana Lúcia Vazquez
+  - family: De Almeida
+    given: Ana Maria Mazotto
+  - dropping-particle: de
+    family: Souza Dias
+    given: Edilma Paraguai
+  - family: Dos Santos
+    given: Elizabete Pereira
+  id: vermelho2010keratin
+  issued: 2010
+  note: US Patent App. 12/666,409
+  title: Keratin hydrolysates, process for their production and cosmetic
+    composition containing the same
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Pereira
+    given: Miriam Claudia
+  - family: Meirelles
+    given: Maria de Nazareth L de
+  container-title: Ciênc. cult.(Säo Paulo)
+  id: vermelho1998use
+  issued: 1998
+  page: 45-51
+  title: "Use of the detergent triton in biochemical and biological
+    research: A minireview"
+  title-short: Use of the detergent triton in biochemical and biological
+    research
+  type: article-journal
+- author:
+  - family: Rodrigues
+    given: Igor A
+  - family: Alviano
+    given: Daniela S
+  - family: Gomes
+    given: Marta T
+  - family: Silva
+    given: Davi O
+  - family: Antoniassi
+    given: Rosemar
+  - family: Silva
+    given: Antonio Jorge R
+  - family: Bizzo
+    given: Humberto R
+  - family: Alviano
+    given: Celuta S
+  - family: Vermelho
+    given: Alane B
+  - dropping-particle: Maria do
+    family: Socorro
+    given: S Rosa
+  container-title: Journal of Medicinal Plants Research
+  id: rodrigues2011vitro
+  issue: 16
+  issued: 2011
+  page: 3781-3790
+  publisher: Academic Journals
+  title: In vitro anti-leishmania amazonensis activity of the polymeric
+    procyanidin-rich aqueous extract from syagrus coronata
+  type: article-journal
+  volume: 5
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Noronha
+    given: Eliane Ferreira
+  - family: Ferreira Filho
+    given: Edivaldo Ximenes
+  - family: Ferrara
+    given: Maria Antonieta
+  - family: Bon
+    given: Elba Pinto S
+  container-title: "Rosenberg E et al, The Prokaryotes: Applied
+    Bacteriology and Biotechnology. Springer Berlin Heidelberg: Berlin,
+    Heidelberg"
+  id: vermelho2013diversity
+  issued: 2013
+  page: 213-240
+  title: Diversity and biotechnological applications of prokaryotic
+    enzymes
+  type: article-journal
+- author:
+  - family: Barreto-Bergter
+    given: Eliana
+  - family: Beatriz Vermelho
+    given: Alane
+  container-title: The Open Parasitology Journal
+  id: barreto2010structures
+  issue: 1
+  issued: 2010
+  title: "Structures of glycolipids found in trypanosomatids:
+    Contribution to parasite functions"
+  title-short: Structures of glycolipids found in trypanosomatids
+  type: article-journal
+  volume: 4
+- author:
+  - family: Costa
+    given: Danielle Cristina Machado
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Almeida
+    given: Catia Amancio
+  - family: Dias
+    given: Edilma Paraguai de Souza
+  - family: Cedrola
+    given: Sabrina Martins Lage
+  - family: Arrigoni-Blank
+    given: Maria de Fatima
+  - family: Blank
+    given: Arie Fitzgerald
+  - family: Alviano
+    given: Celuta Sales
+  - family: Alviano
+    given: Daniela Sales
+  container-title: Journal of enzyme inhibition and medicinal chemistry
+  id: costa2014inhibitory
+  issue: 1
+  issued: 2014
+  page: 12-17
+  publisher: Taylor & Francis
+  title: Inhibitory effect of linalool-rich essential oil from lippia
+    alba on the peptidase and keratinase activities of dermatophytes
+  type: article-journal
+  volume: 29
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Supuran
+    given: Claudiu T
+  - family: Cardoso
+    given: Verônica
+  - family: Menezes
+    given: Dayanne
+  - dropping-particle: de
+    family: Andrade Silva
+    given: Jefferson Rocha
+  - family: Pinto Ferreira
+    given: JL
+  - family: Fernandez Amaral
+    given: AC
+  - family: Rodrigues
+    given: Igor A
+  container-title: Leishmaniasis---Trends in Epidemiology, Diagnosis and
+    Treatment; Claborn, DM, Ed
+  id: vermelho2014leishmaniasis
+  issued: 2014
+  page: 351-376
+  title: "Leishmaniasis: Possible new strategies for treatment"
+  title-short: Leishmaniasis
+  type: article-journal
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Mazotto
+    given: Ana Maria
+  - family: Lage
+    given: Sabrina Martins
+  container-title: Methods to Determine Enzymatic Activity
+  id: vermelho2013keratinases
+  issued: 2013
+  page: 226
+  publisher: Bentham Science Publishers
+  title: "Keratinases: Detection methods"
+  title-short: Keratinases
+  type: article-journal
+- author:
+  - family: Alafeefy
+    given: Ahmed M
+  - family: Ceruso
+    given: Mariangela
+  - family: Al-Jaber
+    given: Nabila A
+  - family: Parkkila
+    given: Seppo
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Supuran
+    given: Claudiu T
+  container-title: Journal of enzyme inhibition and medicinal chemistry
+  id: alafeefy2015new
+  issue: 4
+  issued: 2015
+  page: 581-585
+  publisher: Informa Healthcare
+  title: A new class of quinazoline-sulfonamides acting as efficient
+    inhibitors against the $\alpha$-carbonic anhydrase from trypanosoma
+    cruzi
+  type: article-journal
+  volume: 30
+- author:
+  - family: VERMELHO
+    given: AB
+  - family: MEIRELLES
+    given: MNL
+  container-title: MEMORIAS DO INSTITUTO OSWALDO CRUZ
+  id: vermelho1994sialoglycoconjugates
+  issue: 2
+  issued: 1994
+  page: U5-U5
+  publisher: MEM INST OSWALDO CRUZ SECRETARY CAIXA POSTAL 926, 20001 RIO
+    DE JANEIRO, RJ ...
+  title: SIALOGLYCOCONJUGATES IN TRYPANOSOMA-CRUZI HOST-CELL
+    INTERACTION-POSSIBLE BIOLOGICAL MODEL-a REVIEW (VOL 89, PG 69, 1994)
+  type: article-journal
+  volume: 89
+- author:
+  - family: Amaral
+    given: Ana Claudia F
+  - family: Gomes
+    given: Luciana A
+  - family: Silva
+    given: Jefferson Rocha de A
+  - family: Ferreira
+    given: José Luiz P
+  - family: Ramos
+    given: Aline de S
+  - family: Rosa
+    given: Maria do Socorro S
+  - family: Vermelho
+    given: Alane B
+  - family: Rodrigues
+    given: Igor A
+  container-title: BioMed research international
+  id: amaral2014liposomal
+  issued: 2014
+  publisher: Hindawi
+  title: Liposomal formulation of turmerone-rich hexane fractions from
+    curcuma longa enhances their antileishmanial activity
+  type: article-journal
+  volume: 2014
+- author:
+  - family: Rodrigues
+    given: Giseli Capaci
+  - dropping-particle: de
+    family: Souza
+    given: Flavia Alexandra Gomes
+  - family: Lin
+    given: Whei Oh
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Hydroxamic acids
+  id: rodrigues2013therapeutic
+  issued: 2013
+  page: 255-279
+  publisher: Springer, Berlin, Heidelberg
+  title: Therapeutic potential of hydroxamic acids for microbial
+    diseases
+  type: chapter
+- author:
+  - family: Costa
+    given: JD
+  - family: Nogueira
+    given: AR
+  - family: Porrozzi
+    given: R
+  - family: Vermelho
+    given: AB
+  - dropping-particle: de
+    family: Meirelles
+    given: MDL
+  container-title: MOLECULAR BIOLOGY OF THE CELL
+  id: costa2001behaviour
+  issued: 2001
+  page: 519A-519A
+  publisher: AMER SOC CELL BIOLOGY 8120 WOODMONT AVE, STE 750, BETHESDA,
+    MD 20814-2755 USA
+  title: Behaviour of trypanosoma cruzi infected hepatocyte cells grown
+    in a defined medium
+  type: paper-conference
+  volume: 12
+- author:
+  - family: Barreto-Bergter
+    given: E
+  - family: Vermelho
+    given: AB
+  - family: Hartmann
+    given: R
+  - family: Pohlentz
+    given: G
+  - family: Klein
+    given: RA
+  - family: Egge
+    given: H
+  container-title: gene
+  id: barreto51agabian
+  page: 239
+  title: Agabian, n., See michaeli, s.(51) 55 aikawa, m., See sim, BKL
+    (51) 157 aisien, SO, walter, RD, polyamine n-acetyltransferase from
+    fasciola hepatica (51) 65 aizenstein, BD, see reinitz, DM (51) 119
+  type: article-journal
+  volume: 51
+- author:
+  - dropping-particle: de
+    family: Melo
+    given: Ana Cristina Nogueira
+  - family: Dos Santos
+    given: André Luis Souza
+  - family: Meirelles
+    given: Maria Nazareth Leal
+  - family: Branquinha
+    given: Marta Helena
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: "International journal of biomedical science: IJBS"
+  id: de2008analysis
+  issue: 2
+  issued: 2008
+  page: 97
+  publisher: Master Publishing Group
+  title: Analysis of peptidases in non-infected and trypanosoma
+    cruzi-infected mouse embryo hepatocyte cells
+  type: article-journal
+  volume: 4
+- author:
+  - dropping-particle: de
+    family: Castro
+    given: Angela Christina Dias
+  - family: Meirelles
+    given: Maria Nazareth Leal
+  - dropping-particle: de
+    family: Carvalho Santos
+    given: Angela Hampshire
+  - family: Vieira
+    given: Veronica V
+  - family: Leite
+    given: Luis Henrique Rocha
+  - family: Travassos
+    given: Luis Rodolpho
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Current Microbiology
+  id: de1994alterations
+  issue: 5
+  issued: 1994
+  page: 269-273
+  publisher: Springer-Verlag
+  title: Alterations induced by penicillin in the protein profile and
+    cell structure of group g streptococcus
+  type: article-journal
+  volume: 28
+- author:
+  - family: Dalmaso
+    given: Gabriel ZL
+  - family: Lage
+    given: Claudia AS
+  - family: Mazotto
+    given: Ana Maria
+  - dropping-particle: de
+    family: Souza Dias
+    given: Edilma Paraguai
+  - family: Caldas
+    given: Lucio Ayres
+  - family: Ferreira
+    given: Davis
+  - family: Vermelho
+    given: Alane B
+  container-title: Extremophiles
+  id: dalmaso2015extracellular
+  issue: 5
+  issued: 2015
+  page: 989-999
+  publisher: Springer Japan
+  title: Extracellular peptidases from deinococcus radiodurans
+  type: article-journal
+  volume: 19
+- author:
+  - family: Rodrigues
+    given: Igor A
+  - family: Mazotto
+    given: Ana Maria
+  - family: Cardoso
+    given: Verônica
+  - family: Alves
+    given: Renan L
+  - family: Amaral
+    given: Ana Claudia F
+  - family: Silva
+    given: Jefferson Rocha de Andrade
+  - family: Pinheiro
+    given: Anderson S
+  - family: Vermelho
+    given: Alane B
+  container-title: Mediators of inflammation
+  id: rodrigues2015natural
+  issued: 2015
+  publisher: Hindawi
+  title: "Natural products: Insights into leishmaniasis inflammatory
+    response"
+  title-short: Natural products
+  type: article-journal
+  volume: 2015
+- author:
+  - dropping-particle: de
+    family: Menezes
+    given: Dayanne da Rocha
+  - family: Calvet
+    given: Claudia Magalhaes
+  - family: Rodrigues
+    given: Giseli Capaci
+  - dropping-particle: de
+    family: Souza Pereira
+    given: Mirian Claudia
+  - family: Almeida
+    given: Igor Rodrigues
+  - dropping-particle: de
+    family: Aguiar
+    given: Alcino Palermo
+  - family: Supuran
+    given: Claudiu T
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Journal of enzyme inhibition and medicinal chemistry
+  id: de2016hydroxamic
+  issue: 6
+  issued: 2016
+  page: 964-973
+  publisher: Taylor & Francis
+  title: "Hydroxamic acid derivatives: A promising scaffold for rational
+    compound optimization in chagas disease"
+  title-short: Hydroxamic acid derivatives
+  type: article-journal
+  volume: 31
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  id: vermelho2006praticas
+  issued: 2006
+  publisher: Guanabara Koogan
+  title: Práticas de microbiologia
+  type: book
+- author:
+  - family: Alane Betriz Vermelho
+    given: Anderso Pinheiro
+    suffix: Veronica Cardoso
+  container-title: Advances in food biotechnology
+  id: alane2015application
+  issued: 2015
+  page: 400
+  publisher: John Wiley & Sons,
+  title: Application of microbial enzymes in the food industry.
+  type: chapter
+- author:
+  - family: Alane Betriz Vermelho
+    given: Anderso Pinheiro
+    suffix: Veronica Cardoso
+  container-title: Advances in food biotechnology
+  id: alane2015application
+  issued: 2015
+  page: 400
+  publisher: John Wiley & Sons,
+  title: Application of microbial enzymes in the food industry.
+  type: chapter
+- author:
+  - family: Mansur
+    given: Maria Cristina PP
+  - family: Leitão
+    given: Suzana Guimarães
+  - family: Cerqueira-Coutinho
+    given: Cristal
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Silva
+    given: Ronald S
+  - family: Presgrave
+    given: Octávio AF
+  - family: Leitão
+    given: Álvaro AC
+  - family: Leitão
+    given: Gilda G
+  - family: Ricci-Júnior
+    given: Eduardo
+  - family: Santos
+    given: Elisabete P
+  container-title: Revista Brasileira de Farmacognosia
+  id: mansur2016vitro
+  issued: 2016
+  page: 251-258
+  publisher: Sociedade Brasileira de Farmacognosia
+  title: In vitro and in vivo evaluation of efficacy and safety of
+    photoprotective formulations containing antioxidant extracts
+  type: article-journal
+  volume: 26
+- author:
+  - family: SANTA-IZABEL
+    given: AA
+  - family: VERMELHO
+    given: AB
+  - family: BRANQUINHA
+    given: MH
+  - family: SOUSA
+    given: MA
+  - family: Sousa
+    given: Maria Auxiliadora
+  - literal: others
+  id: santa2002proteinase
+  issued: 2002
+  title: Proteinase profiles in trypanosoma rangeli tejera, 1920 strains
+    and some stercorarian trypanosomes
+  type: article-journal
+- author:
+  - family: MELO
+    given: ACN
+  - family: MEIRELLES
+    given: MNL
+  - family: BRANQUINHA
+    given: MH
+  - family: VERMELHO
+    given: AB
+  - literal: others
+  id: melo2007zymographic
+  issued: 2007
+  title: Zymographic analysis of proteinases in trypanosoma
+    cruzi-infected hepatocyte cultures using different protein
+    substrates
+  type: article-journal
+- author:
+  - family: BRANQUINHA
+    given: MH
+  - family: VERMELHO
+    given: AB
+  - family: GOLDENBERG
+    given: S
+  - family: GOLDENBERG
+    given: SAMUEL
+  - family: Goldenberg
+    given: Samuel
+  - family: BONALDO
+    given: MC
+  - literal: others
+  id: branquinha1996cysteine
+  issued: 1996
+  title: Cysteine and metalloproteinases are the major proteolytic
+    activities expressed by trypanosomatids
+  type: article-journal
+- author:
+  - family: SOUSA
+    given: MA
+  - family: Sousa
+    given: Maria Auxiliadora
+  - family: SANTA-IZABEL
+    given: AA
+  - family: VERMELHO
+    given: AB
+  - family: BRANQUINHA
+    given: MH
+  - literal: others
+  id: sousa2003analise
+  issued: 2003
+  title: "Análise da atividade proteolı́tica de formas de cultivo axênico
+    de trypanosoma rangeli tejera, 1920 e outras espécies de trypanosoma
+    da seção stercoraria: Implicações de valor taxonômico."
+  title-short: Análise da atividade proteolı́tica de formas de cultivo
+    axênico de trypanosoma rangeli tejera, 1920 e outras espécies de
+    trypanosoma da seção stercoraria
+  type: article-journal
+- author:
+  - family: Caldas
+    given: Nathália Lima
+  - family: Lobo
+    given: Leandro Araujo
+  - family: Domingues
+    given: Regina Maria Cavalcanti Pilotto
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Rodrigues
+    given: Giseli Capaci
+  container-title: Revista Interdisciplinar de Estudos em Saúde
+  id: caldas2016avaliaccao
+  issued: 2016
+  page: 127-135
+  title: AVALIAÇÃo DO EFEITO DE DERIVADOS DO ÁCIDO HIDROXÂMICO NA
+    VIABILIDADE CELULAR DE MICRO-ORGANISMOS CAUSADORES DE DOENÇAS BUCAIS
+  type: article-journal
+- author:
+  - family: Andrade
+    given: RCS
+  - family: MCPP
+    given: Reis Mansur
+  - family: Cardoso
+    given: VS
+  - family: Mazotto
+    given: AM
+  - family: Sousa
+    given: EP
+  - family: Macrae
+    given: A
+  - family: Vermelho
+    given: AB
+  id: andradebioprodutos
+  title: "Bioprodutos de cladosporium cladosporioides: Hidrolases e
+    captação de melanina"
+  title-short: Bioprodutos de cladosporium cladosporioides
+  type: article-journal
+- author:
+  - dropping-particle: de
+    family: Medeiros
+    given: Ingrid Pinheiro
+  - family: Rozental
+    given: Sonia
+  - family: Costa
+    given: Amanda S
+  - family: Macrae
+    given: Andrew
+  - family: Hagler
+    given: Allen N
+  - family: Ribeiro
+    given: José RA
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: International Biodeterioration & Biodegradation
+  id: de2016biodegradation
+  issued: 2016
+  page: 199-204
+  publisher: Elsevier
+  title: Biodegradation of keratin by trichosporum loubieri RC-S6
+    isolated from tannery/leather waste
+  type: article-journal
+  volume: 115
+- author:
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Verônica
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: Ribeiro de
+    family: Lima
+    given: Cristina Amorim
+  - dropping-particle: Mendes de
+    family: Oliveira
+    given: Jéssica
+  - dropping-particle: Freire de
+    family: Lima
+    given: Marco Edilson
+  - dropping-particle: Pinto da
+    family: Silva
+    given: Lucia Helena
+  - family: Direito
+    given: Glória Maria
+  - family: Miranda Danelli
+    given: Maria das Gracas
+  container-title: Toxins
+  id: da2016antigenotoxic
+  issue: 11
+  issued: 2016
+  page: 316
+  publisher: Multidisciplinary Digital Publishing Institute
+  title: Antigenotoxic effect of piperine in broiler chickens
+    intoxicated with aflatoxin B1
+  type: article-journal
+  volume: 8
+- author:
+  - family: Gabriel
+    given: Renata S
+  - family: Amaral
+    given: Ana Claudia F
+  - family: Corte-Real
+    given: Suzana
+  - family: Lopes
+    given: Rosana C
+  - family: Alviano
+    given: Celuta S
+  - family: Vermelho
+    given: Alane B
+  - family: Alviano
+    given: Daniela S
+  - family: Rodrigues
+    given: Igor A
+  container-title: Journal of Medicinal Plants Research
+  id: gabriel2016antileishmanial
+  issue: 42
+  issued: 2016
+  page: 775-782
+  publisher: Academic Journals
+  title: Antileishmanial effects of the alkaloid-rich fraction of
+    quassia amara l.
+  type: article-journal
+  volume: 10
+- author:
+  - family: Meira
+    given: Guilherme LS
+  - family: Campos
+    given: Fabricio S
+  - family: Albuquerque
+    given: Julia P
+  - family: Cabral
+    given: Maulori C
+  - family: Fracalanzza
+    given: Sergio EL
+  - family: Campos
+    given: Renata M
+  - family: Vermelho
+    given: Alane B
+  - family: Ferreira
+    given: Davis F
+  container-title: Genome announcements
+  id: meira2016genome
+  issue: 6
+  issued: 2016
+  page: e01298-16
+  publisher: American Society for Microbiology 1752 N St., NW,
+    Washington, DC
+  title: Genome sequence of KP-rio/2015, a novel klebsiella pneumoniae
+    (podoviridae) phage
+  type: article-journal
+  volume: 4
+- author:
+  - dropping-particle: de
+    family: Siqueira
+    given: Luciana Betzler de Oliveira
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Verônica
+  - family: Rodrigues
+    given: Igor Almeida
+  - family: Vazquez-Villa
+    given: Ana Lúcia
+  - family: Dos Santos
+    given: Elisabete Pereira
+  - family: Guimarães
+    given: Bruno da Costa Leal Ribeiro
+  - family: Coutinho
+    given: Cristal dos Santos Cerqueira
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Junior
+    given: Eduardo Ricci
+  container-title: Nanotechnology
+  id: de2017development
+  issue: 6
+  issued: 2017
+  page: 065101
+  publisher: IOP Publishing
+  title: Development and evaluation of zinc phthalocyanine nanoemulsions
+    for use in photodynamic therapy for leishmania spp.
+  type: article-journal
+  volume: 28
+- author:
+  - family: Pengo
+    given: Edson Renato
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Ferreira
+    given: Davis Fernandes
+  - family: Ferreira
+    given: Doneivan Fernandes
+  - dropping-particle: de
+    family: Queiroz Venâncio
+    given: Fabrı́cio
+  - family: Batocchio
+    given: Marcelo Adriano Pavanelli
+  id: pengo2017method
+  issued: 2017
+  note: US Patent 9,783,435
+  title: Method for bacteria control, method for fungi control, method
+    for virus control, method for preventing encrustation on surfaces
+    and method for preventing corrosion on surfaces
+- author:
+  - family: Vermelho
+    given: Alane B
+  - family: Capaci
+    given: Giseli R
+  - family: Rodrigues
+    given: Igor A
+  - family: Cardoso
+    given: Veronica S
+  - family: Mazotto
+    given: Ana Maria
+  - family: Supuran
+    given: Claudiu T
+  container-title: Bioorganic & medicinal chemistry
+  id: vermelho2017carbonic
+  issue: 5
+  issued: 2017
+  page: 1543-1555
+  publisher: Pergamon
+  title: Carbonic anhydrases from trypanosoma and leishmania as
+    anti-protozoan drug targets
+  type: article-journal
+  volume: 25
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: de
+    family: Souza
+    given: Edilma Paraguai
+  - family: Paiva
+    given: Daniel
+  - family: Rodrigues
+    given: Giseli Capaci
+  container-title: Methods to Determine Enzymatic Activity
+  id: vermelho2013qualitative
+  issued: 2013
+  page: 262
+  publisher: Bentham Science Publishers
+  title: Qualitative and quantitative to determine peptidase activity
+  type: article-journal
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Fraga
+    given: Carlos Alberto Manssour
+  - family: Carvalho
+    given: Samir Aquino
+  - dropping-particle: da
+    family: Silva
+    given: Edson Ferreira
+  - dropping-particle: de
+    family: Castro
+    given: Solange Lisboa
+  - dropping-particle: de
+    family: Almeida Rodrigues
+    given: Igor
+  - dropping-particle: dos
+    family: Santos Rosa
+    given: Maria do Socorro
+  - family: Amaral
+    given: Ana Claudia Fernandes
+  - family: Rodrigues
+    given: Giseli Capaci
+  container-title: Drug development-a case study based insight into
+    modern strategies
+  id: vermelho2011novel
+  issued: 2011
+  publisher: IntechOpen
+  title: Novel therapeutic strategies for ChagasDisease
+  type: chapter
+- author:
+  - family: Vermelho
+    given: Alane B
+  - family: Cardoso
+    given: Verônica S
+  - family: Lobo
+    given: Leandro
+  - family: Venâncio
+    given: Fabrı́cio Q
+  - family: Pengo
+    given: Edson Renato
+  - family: Ferreira
+    given: Doneivan F
+  - family: Ferreira
+    given: Davis F
+  id: vermelho2014efeito
+  issued: 2014
+  title: EFEITO DE SUBSTÂNCIA BIOATIVA DE MAMONA SOBRE BACTÉRIA REDUTORA
+    DE SULFATO (BRS)
+  type: article-journal
+- author:
+  - family: Garcia
+    given: Andreza R
+  - family: Amaral
+    given: Ana Claudia F
+  - family: Azevedo
+    given: Mariana MB
+  - family: Corte-Real
+    given: Suzana
+  - family: Lopes
+    given: Rosana C
+  - family: Alviano
+    given: Celuta S
+  - family: Pinheiro
+    given: Anderson S
+  - family: Vermelho
+    given: Alane B
+  - family: Rodrigues
+    given: Igor A
+  container-title: Pharmaceutical biology
+  id: garcia2017cytotoxicity
+  issue: 1
+  issued: 2017
+  page: 1780-1786
+  publisher: Taylor & Francis
+  title: Cytotoxicity and anti-leishmania amazonensis activity of citrus
+    sinensis leaf extracts
+  type: article-journal
+  volume: 55
+- author:
+  - family: Mazotto
+    given: Ana Maria
+  - family: Ascheri
+    given: José Luis Ramı́rez
+  - dropping-particle: de
+    family: Oliveira Godoy
+    given: Ronoel Luiz
+  - family: Damaso
+    given: Mônica Caramez Triches
+  - family: Couri
+    given: Sonia
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: LWT
+  id: mazotto2017production
+  issued: 2017
+  page: 701-709
+  publisher: Academic Press
+  title: Production of feather protein hydrolyzed by b. Subtilis AMR and
+    its application in a blend with cornmeal by extrusion
+  type: article-journal
+  volume: 84
+- author:
+  - family: RODRIGUES
+    given: I de A
+  - family: BARROS
+    given: MMA
+  - family: CHAVES
+    given: FCM
+  - family: ALVIANO
+    given: CS
+  - family: ROSA
+    given: M
+  - family: VERMELHO
+    given: AB
+  container-title: Embrapa amazônia ocidental-resumo em anais de
+    congresso (ALICE)
+  id: rodrigues2012efeito
+  issued: 2012
+  publisher: "In: REUNIÃO ANUAL DA SBPC, 64., 2012, São Luı́s. Ciência,
+    cultura e saberes ..."
+  title: Efeito inibitório do extrato hexânico de arrabidaea chica
+    (bignoniaceae) sobre peptidases de leishmania chagasi.
+  type: paper-conference
+- author:
+  - family: Rodrigues
+    given: IA
+  - family: Azevedo
+    given: MMB
+  - family: Almeida
+    given: CA
+  - family: Chaves
+    given: FCM
+  - family: Alviano
+    given: DS
+  - family: Alviano
+    given: CS
+  - family: Rosa
+    given: MSS
+  - family: Vermelho
+    given: AB
+  container-title: Embrapa amazônia ocidental-resumo em anais de
+    congresso (ALICE)
+  id: rodrigues2011efeito
+  issued: 2011
+  publisher: "In: CONGRESSO BRASILEIRO DE MICROBIOLOGIA, 26., 2011, Foz
+    do Iguaçu. Resumos ..."
+  title: Efeito citocida dos extratos de arrabidaea chica em leishmania
+    spp. E trypanosoma cruzi.
+  type: paper-conference
+- author:
+  - family: Schultz
+    given: Júnia
+  - dropping-particle: de
+    family: Souza
+    given: Yuri Alves Pinheiro
+  - family: Mansur
+    given: Maria Cristina Pinheiro Pereira Reis
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: da
+    family: Mota
+    given: Fábio Faria
+  - family: Rosado
+    given: Alexandre Soares
+  container-title: Genome announcements
+  id: schultz2017draft
+  issue: 29
+  issued: 2017
+  page: e00672-17
+  publisher: American Society for Microbiology 1752 N St., NW,
+    Washington, DC
+  title: Draft genome sequence of microbacterium sp. Strain LEMMJ01,
+    isolated from antarctic ornithogenic soil
+  type: article-journal
+  volume: 5
+- author:
+  - family: Dalmaso
+    given: Gabriel Zamith Leal
+  - family: Ferreira
+    given: Davis
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Marine drugs
+  id: dalmaso2015marine
+  issue: 4
+  issued: 2015
+  page: 1925-1965
+  publisher: Multidisciplinary Digital Publishing Institute
+  title: "Marine extremophiles: A source of hydrolases for
+    biotechnological applications"
+  title-short: Marine extremophiles
+  type: article-journal
+  volume: 13
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  id: vermelhofalando
+  title: Falando sobre ciência
+  type: article-journal
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Verônica
+  - family: Ricci Junior
+    given: Eduardo
+  - family: Dos Santos
+    given: Elisabete Pereira
+  - family: Supuran
+    given: Claudiu T
+  container-title: Journal of enzyme inhibition and medicinal chemistry
+  id: vermelho2018nanoemulsions
+  issue: 1
+  issued: 2018
+  page: 139-146
+  publisher: Taylor & Francis
+  title: Nanoemulsions of sulfonamide carbonic anhydrase inhibitors
+    strongly inhibit the growth of trypanosoma cruzi
+  type: article-journal
+  volume: 33
+- author:
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Verônica
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Ricci Junior
+    given: Eduardo
+  - family: Almeida Rodrigues
+    given: Igor
+  - family: Mazotto
+    given: Ana Maria
+  - family: Supuran
+    given: Claudiu T
+  container-title: Journal of enzyme inhibition and medicinal chemistry
+  id: da2018antileishmanial
+  issue: 1
+  issued: 2018
+  page: 850-857
+  publisher: Taylor & Francis
+  title: Antileishmanial activity of sulphonamide nanoemulsions
+    targeting the $\beta$-carbonic anhydrase from leishmania species
+  type: article-journal
+  volume: 33
+- author:
+  - family: Herculano-Houzel
+    given: Suzana
+  - family: Araujo
+    given: Fábio
+  - dropping-particle: de
+    family: Melo
+    given: Hildete Pereira
+  - family: Falci
+    given: Miridan Britto
+  - family: Geber
+    given: Selmo
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Palatnik
+    given: David
+  - family: Felzenszwalb
+    given: Israel
+  - family: Editora
+    given: A
+  id: herculano2003cerebro
+  issued: 2003
+  publisher: Vieira & Lent
+  title: O cérebro e os prazeres da vida cotidiana
+- author:
+  - family: Bonardi
+    given: Alessandro
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Veronica
+  - dropping-particle: de
+    family: Souza Pereira
+    given: Mirian Claudia
+  - dropping-particle: da
+    family: Silva Lara
+    given: Leonardo
+  - family: Selleri
+    given: Silvia
+  - family: Gratteri
+    given: Paola
+  - family: Supuran
+    given: Claudiu T
+  - family: Nocentini
+    given: Alessio
+  container-title: ACS medicinal chemistry letters
+  id: bonardi2018n
+  issue: 4
+  issued: 2018
+  page: 413-418
+  publisher: American Chemical Society
+  title: "N-nitrosulfonamides as carbonic anhydrase inhibitors: A
+    promising chemotype for targeting chagas disease and leishmaniasis"
+  title-short: N-nitrosulfonamides as carbonic anhydrase inhibitors
+  type: article-journal
+  volume: 10
+- author:
+  - dropping-particle: de
+    family: Paiva
+    given: Daniel Pereira
+  - dropping-particle: de
+    family: Oliveira
+    given: Samara Sant'Anna
+  - family: Mazotto
+    given: Ana Maria
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: de
+    family: Oliveira
+    given: Selma Soares
+  container-title: 3 Biotech
+  id: de2019keratinolytic
+  issue: 1
+  issued: 2019
+  page: 1-12
+  publisher: Springer International Publishing
+  title: Keratinolytic activity of bacillus subtilis LFB-FIOCRUZ 1266
+    enhanced by whole-cell mutagenesis
+  type: article-journal
+  volume: 9
+- author:
+  - family: Lavinas
+    given: Flavia C
+  - family: Macedo
+    given: Ellis Helena BC
+  - family: Sá
+    given: Gabriel BL
+  - family: Amaral
+    given: Ana Claudia F
+  - family: Silva
+    given: Jefferson RA
+  - family: Azevedo
+    given: Mariana
+  - family: Vieira
+    given: Bárbara A
+  - family: Domingos
+    given: Thaisa Francielle S
+  - family: Vermelho
+    given: Alane B
+  - family: Carneiro
+    given: Carla S
+  - literal: others
+  container-title: Revista Brasileira de Farmacognosia
+  id: lavinas2019brazilian
+  issued: 2019
+  page: 389-399
+  publisher: Sociedade Brasileira de Farmacognosia
+  title: "Brazilian stingless bee propolis and geopropolis: Promising
+    sources of biologically active compounds"
+  title-short: Brazilian stingless bee propolis and geopropolis
+  type: article-journal
+  volume: 29
+- author:
+  - family: THOMPSON
+    given: FABIANO L
+  - family: SANTOS
+    given: EIDY DE O
+  - family: ALVES JR
+    given: NELSON
+  - family: DIAS
+    given: GRACIELA M
+  - family: MAZOTTO
+    given: ANA
+  - family: VERMELHO
+    given: ALANE
+  - family: VORA
+    given: GARY J
+  - family: WILSON
+    given: BRYAN
+  - family: BELTRAN
+    given: VICTOR H
+  - family: BOURNE
+    given: DAVID G
+  - literal: others
+  container-title: "The ISME Journal-pages: 5: 1471-1483"
+  id: thompson2011genomic
+  issued: 2011
+  title: Genomic and proteomic analyses of the coral pathogen vibrio
+    coralliilyticus reveal a diverse virulence repertoire
+  type: article-journal
+- author:
+  - family: d'Avila-Levy
+    given: CM
+  - dropping-particle: Masini
+    family: d'Avila-Levy
+    given: C
+  - dropping-particle: d
+    family: Avila-Levy
+    given: CM
+  - dropping-particle: d'Avila
+    family: Levy
+    given: Claudia Masini
+  - family: DAVILALEVY
+    given: C
+  - family: d'Avila-Levy
+    given: Claudia M
+  - dropping-particle: d
+    family: Avila-Levy
+    given: Claudia M
+  - dropping-particle: d
+    family: Ávila-Levy
+    given: Cláudia Masini
+  - dropping-particle: Masini d'Avila
+    family: Levy
+    given: Claudia
+  - family: D'AVILA-LEVY
+    given: CLAUDIA
+  - literal: others
+  id: d2003novel
+  issued: 2003
+  title: A novel calcium-dependent cysteine proteinase from crithidia
+    deanei
+  type: article-journal
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Couri
+    given: Sonia
+  id: vermelho2013methods
+  issued: 2013
+  publisher: Bentham Science Publishers
+  title: Methods to determine enzymatic activity
+- author:
+  - family: d'Avila-Levy
+    given: Claudia M
+  - family: VOLOTÃO
+    given: ALINE CC
+  - family: ARAÚJO
+    given: FERNANDA M
+  - dropping-particle: de
+    family: Jesus
+    given: José B
+  - family: MOTTA
+    given: MARIA CRISTINA M
+  - family: VERMELHO
+    given: ALANE B
+  - family: SANTOS
+    given: ANDRÉ LS
+  - family: Branquinha
+    given: Marta H
+  - literal: others
+  id: d2009sp
+  issued: 2009
+  title: Sp., A free-living flagellate, expresses divergent proteolytic
+    activities from the closely related parasitic trypanosomatids
+  type: article-journal
+- author:
+  - family: Melo
+    given: Ana Cristina Nogueira de
+  - family: Souza
+    given: Edilma Paraguai de
+  - family: Elias
+    given: Camila Guarany Ramalho
+  - family: Santos
+    given: André Luis Souza dos
+  - family: Branquinha
+    given: Marta Helena
+  - family: Levy
+    given: Claudia Masini d'Avila
+  - family: Reis
+    given: Flávia Coelho Garcia dos
+  - family: Costa
+    given: Tatiana Ferreira Rocha
+  - family: Lima
+    given: Ana Paula Cabral de Araujo
+  - family: Pereira
+    given: Mirian Cláudia de Souza
+  - literal: others
+  id: melo2010detection
+  issued: 2010
+  publisher: Elsevier
+  title: Detection of matrix metallopeptidase-9-like proteins in
+    trypanosoma cruzi
+  type: article-journal
+- author:
+  - family: Cerqueira
+    given: Cristal
+  - family: Nigro
+    given: Fiammetta
+  - family: Campos
+    given: Vânia EB
+  - family: Rossi
+    given: André
+  - family: Santos-Oliveira
+    given: Ralph
+  - family: Cardoso
+    given: Verônica
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Dos Santos
+    given: Elisabete P
+  - family: Mansur
+    given: Claudia Regina E
+  container-title: Nanotechnology
+  id: cerqueira2019nanovesicle
+  issue: 34
+  issued: 2019
+  page: 345102
+  publisher: IOP Publishing
+  title: "Nanovesicle-based formulations for photoprotection: A safety
+    and efficacy approach"
+  title-short: Nanovesicle-based formulations for photoprotection
+  type: article-journal
+  volume: 30
+- author:
+  - family: Mansoldo
+    given: Felipe Raposo Passos
+  - family: Junior
+    given: Athayde Neves
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Veronica
+  - dropping-particle: Maria do
+    family: Socorro
+    given: S Rosa
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Analyst
+  id: mansoldo2019evaluation
+  issue: 13
+  issued: 2019
+  page: 4111-4120
+  publisher: Royal Society of Chemistry
+  title: Evaluation of kluyveromyces marxianus endo-polygalacturonase
+    activity through ATR-FTIR
+  type: article-journal
+  volume: 144
+- author:
+  - family: Garcia
+    given: Andreza R
+  - family: Oliveira
+    given: Danielle MP
+  - family: Claudia F. Amaral
+    given: Ana
+  - family: Jesus
+    given: Jéssica B
+  - family: Renno Sodero
+    given: Ana Carolina
+  - family: Souza
+    given: Alessandra MT
+  - family: Supuran
+    given: Claudiu T
+  - family: Vermelho
+    given: Alane B
+  - family: Rodrigues
+    given: Igor A
+  - family: Pinheiro
+    given: Anderson S
+  container-title: Journal of enzyme inhibition and medicinal chemistry
+  id: garcia2019leishmania
+  issue: 1
+  issued: 2019
+  page: 1100-1109
+  publisher: Taylor & Francis
+  title: "Leishmania infantum arginase: Biochemical characterization and
+    inhibition by naturally occurring phenolic substances"
+  title-short: Leishmania infantum arginase
+  type: article-journal
+  volume: 34
+- author:
+  - family: Nocentini
+    given: Alessio
+  - family: Osman
+    given: Sameh M
+  - family: Rodrigues
+    given: Igor A
+  - family: Cardoso
+    given: Veronica S
+  - family: Alasmary
+    given: Fatmah Ali S
+  - family: AlOthman
+    given: Zeid
+  - family: Vermelho
+    given: Alane B
+  - family: Gratteri
+    given: Paola
+  - family: Supuran
+    given: Claudiu T
+  container-title: Journal of enzyme inhibition and medicinal chemistry
+  id: nocentini2019appraisal
+  issue: 1
+  issued: 2019
+  page: 1164-1171
+  publisher: Taylor & Francis
+  title: Appraisal of anti-protozoan activity of nitroaromatic
+    benzenesulfonamides inhibiting carbonic anhydrases from trypanosoma
+    cruzi and leishmania donovani
+  type: article-journal
+  volume: 34
+- author:
+  - family: Reis-Mansur
+    given: Maria Cristina PP
+  - family: Cardoso-Rurr
+    given: Janine S
+  - family: Silva
+    given: Josemar V Maiworm Abreu
+  - dropping-particle: de
+    family: Souza
+    given: Gabriela Rodrigues
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Verônica
+  - family: Mansoldo
+    given: Felipe Raposo Passos
+  - family: Pinheiro
+    given: Yuri
+  - family: Schultz
+    given: Júnia
+  - family: Balottin
+    given: Luciene B Lopez
+  - dropping-particle: da
+    family: Silva
+    given: Antonio Jorge Ribeiro
+  - literal: others
+  container-title: Scientific reports
+  id: reis2019carotenoids
+  issue: 1
+  issued: 2019
+  page: 1-14
+  publisher: Nature Publishing Group
+  title: Carotenoids from UV-resistant antarctic microbacterium sp.
+    LEMMJ01
+  type: article-journal
+  volume: 9
+- author:
+  - dropping-particle: de
+    family: Siqueira
+    given: Luciana Betzler de Oliveira
+  - dropping-particle: dos
+    family: Santos Matos
+    given: Ana Paula
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Verônica
+  - family: Villanova
+    given: Janaı́na Cecı́lia Oliveira
+  - family: Guimarães
+    given: Bruno da Costa Leal Ribeiro
+  - family: Dos Santos
+    given: Elisabete Pereira
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Santos-Oliveira
+    given: Ralph
+  - family: Junior
+    given: Eduardo Ricci
+  container-title: Nanotechnology
+  id: de2019clove
+  issue: 42
+  issued: 2019
+  page: 425101
+  publisher: IOP Publishing
+  title: Clove oil nanoemulsion showed potent inhibitory effect against
+    candida spp.
+  type: article-journal
+  volume: 30
+- author:
+  - family: Gabriel
+    given: Renata S
+  - family: Amaral
+    given: Ana Claudia F
+  - family: Lima
+    given: Iasmim C
+  - family: Cruz
+    given: Jefferson D
+  - family: Garcia
+    given: Andreza R
+  - family: Souza
+    given: Hercules Antonio S
+  - family: Adade
+    given: Camila M
+  - family: Vermelho
+    given: Alane B
+  - family: Alviano
+    given: Celuta S
+  - family: Alviano
+    given: Daniela S
+  - literal: others
+  container-title: Revista Brasileira de Farmacognosia
+  id: gabriel2020beta
+  issued: 2020
+  page: 755-762
+  publisher: Sociedade Brasileira de Farmacognosia
+  title: "$\\beta$-carboline-1-propionic acid alkaloid: Antileishmanial
+    and cytotoxic effects"
+  title-short: $\beta$-carboline-1-propionic acid alkaloid
+  type: article-journal
+  volume: 29
+- author:
+  - family: Nigro
+    given: Fiammetta
+  - family: Cerqueira
+    given: Cristal
+  - family: Rossi
+    given: André
+  - family: Cardoso
+    given: Verônica
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Ricci-Júnior
+    given: Eduardo
+  - dropping-particle: dos
+    family: Santos
+    given: Elisabete P
+  - family: Mansur
+    given: Claudia Regina E
+  container-title: "Colloids and Surfaces A: Physicochemical and
+    Engineering Aspects"
+  id: nigro2020development
+  issued: 2020
+  page: 124132
+  publisher: Elsevier
+  title: Development, characterization and in vitro toxicity evaluation
+    of nanoemulsion-loaded hydrogel based on copaiba oil and coenzyme
+    Q10
+  type: article-journal
+  volume: 586
+- author:
+  - family: Vermelho
+    given: AB
+  container-title: "Vermelho AB, Bastos MCF, Sa MHB. Bacteriologia
+    geral. Rio de Janeiro: Guanabara Koogan"
+  id: vermelho2007nutriccao
+  issued: 2007
+  page: 123-83
+  title: Nutrição e crescimento das células procarióticas
+  type: article-journal
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Rodrigues
+    given: Giseli Capaci
+  - family: Supuran
+    given: Claudiu T
+  container-title: Expert opinion on drug discovery
+  id: vermelho2020hasn
+  issue: 2
+  issued: 2020
+  page: 145-158
+  publisher: Taylor & Francis
+  title: Why hasn't there been more progress in new chagas disease drug
+    discovery?
+  type: article-journal
+  volume: 15
+- author:
+  - family: Teixeira
+    given: Jessica
+  - family: Freitas
+    given: Zaida Maria Farias de
+  - family: Monteiro
+    given: Mariana Sato de Souza Bustamante
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Ricci
+    given: Eduardo
+  - family: Santos
+    given: Elisabete Pereira dos
+  container-title: Brazilian Journal of Pharmaceutical Sciences
+  id: teixeira2019development
+  issued: 2019
+  publisher: Universidade de São Paulo, Faculdade de Ciências
+    Farmacêuticas
+  title: Development and characterization of photoprotective
+    formulations containing keratin particles
+  type: article-journal
+  volume: 55
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: Nogueira de
+    family: Melo
+    given: AC
+  - family: Soares
+    given: Rosangela Araújo
+  - family: Alviano
+    given: Daniela Sales
+  - family: Soares
+    given: EP
+  - family: Souto-Padrón
+    given: Thaı̈s
+  - family: Lopes
+    given: AH
+  - family: Rodrigues
+    given: GC
+  - family: Aguiar
+    given: AP
+  - family: Pereira
+    given: MC
+  - literal: others
+  container-title: Open Parasitol J
+  id: vermelho2010trypanosoma
+  issued: 2010
+  page: 120-131
+  title: "Trypanosoma cruzi peptidases: An overview"
+  title-short: Trypanosoma cruzi peptidases
+  type: article-journal
+  volume: 4
+- author:
+  - family: Silva
+    given: Fernanda B da
+  - family: Martins
+    given: Roberto Carlos C
+  - family: Gomes
+    given: Amanda L
+  - family: Mazotto
+    given: Ana M
+  - family: Vermelho
+    given: Alane B
+  - family: Trovó
+    given: Marcelo
+  container-title: Revista Virtual de Quimica
+  id: silva2019antiparasitic
+  issue: 5
+  issued: 2019
+  page: 1498-1512
+  title: Antiparasitic activity and characterization of lignans from the
+    ethanolic extract of zanthoxylum monogynum a. St-hil. leaves
+  type: article-journal
+  volume: 11
+- author:
+  - family: Junior
+    given: Athayde Neves
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Veronica
+  - family: Mansoldo
+    given: Felipe Raposo Passos
+  - family: Cedrola
+    given: Sabrina Martins Lage
+  - family: Mansur
+    given: Maria Cristina PP Reis
+  - family: Godoy
+    given: Mateus Gomes
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Journal of Microbiological Methods
+  id: junior2020microplate
+  issued: 2020
+  page: 105948
+  publisher: Elsevier
+  title: A microplate assay for extracellular hydrolase detection
+  type: article-journal
+  volume: 175
+- author:
+  - family: Damaso
+    given: Mônica Caramez Triches
+  - family: Valadão
+    given: Romulo Cardoso
+  - family: Couri
+    given: Sonia
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Methods to Determine Enzymatic Activity
+  id: damaso2013assay
+  issue: 8
+  issued: 2013
+  page: 208
+  publisher: Bentham Science Publishers
+  title: Assay method for transglutaminase activity
+  type: article-journal
+  volume: 2
+- author:
+  - family: Mansoldo
+    given: Felipe Raposo Passos
+  - family: Firpo
+    given: Rhayssa
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Veronica
+  - family: Queiroz
+    given: Gregório Nepomuceno
+  - family: Cedrola
+    given: Sabrina Martins Lage
+  - dropping-particle: de
+    family: Godoy
+    given: Mateus Gomes
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Talanta
+  id: mansoldo2020new
+  issued: 2020
+  page: 121238
+  publisher: Elsevier
+  title: New method for rapid identification and quantification of
+    fungal biomass using ergosterol autofluorescence
+  type: article-journal
+  volume: 219
+- author:
+  - family: Mansur
+    given: Maria Cristina Pinheiro Pereira Reis
+  - family: Campos
+    given: Christian
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Nobrega
+    given: Jonas
+  - dropping-particle: da
+    family: Cunha Boldrini
+    given: Leonardo
+  - family: Balottin
+    given: Luciene
+  - family: Lage
+    given: Claudia
+  - family: Rosado
+    given: Alexandre Soares
+  - family: Ricci-Júnior
+    given: Eduardo
+  - dropping-particle: dos
+    family: Santos
+    given: Elisabete Pereira
+  container-title: Arabian Journal of Chemistry
+  id: mansur2020photoprotective
+  issue: 8
+  issued: 2020
+  page: 6741-6752
+  publisher: Elsevier
+  title: "Photoprotective nanoemulsions containing microbial carotenoids
+    and buriti oil: Efficacy and safety study"
+  title-short: Photoprotective nanoemulsions containing microbial
+    carotenoids and buriti oil
+  type: article-journal
+  volume: 13
+- author:
+  - dropping-particle: dos
+    family: Santos Matos
+    given: Ana Paula
+  - family: Lopes
+    given: Deise Cristina Drummond Xavier Paes
+  - family: Peixoto
+    given: Maria Luı́za Honório
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Veronica
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Santos-Oliveira
+    given: Ralph
+  - family: Vicosa
+    given: Alessandra Lifsitch
+  - family: Holandino
+    given: Carla
+  - family: Ricci-Junior
+    given: Eduardo
+  container-title: Drug Delivery and Translational Research
+  id: dos2020development
+  issue: 6
+  issued: 2020
+  page: 1552-1570
+  publisher: Springer US
+  title: Development, characterization, and anti-leishmanial activity of
+    topical amphotericin b nanoemulsions
+  type: article-journal
+  volume: 10
+- author:
+  - family: PAN
+    given: P
+  - family: SCOZZAFAVA
+    given: A
+  - family: PARKKILA
+    given: S
+  - family: GÜZEL-AKDEMIR
+    given: Ö
+  - family: VERMELHO
+    given: AB
+  - family: Akdemir
+    given: ATİLLA
+  - family: SUPURAN
+    given: CT
+  - family: CAPASSO
+    given: C
+  id: pan2013class
+  issued: 2013
+  title: A class of sulfonamides with strong inhibitory action against
+    the $\alpha$-carbonic anhydrase from trypanosoma cruzi.
+  type: article-journal
+- author:
+  - family: Schuenck-Rodrigues RA
+    given: Dos Santos Matos AP
+    suffix: de Oliveira de Siqueira LB
+  id: schuenck2020development
+  issued: 2020
+  title: Development, characterization and photobiological activity of
+    nanoemulsion containing zinc phthalocyanine for oral infections
+    treatment.
+  type: article-journal
+- author:
+  - family: Mansoldo FRP
+    given: Cardoso VDS
+    suffix: Firpo R
+  id: mansoldo2020new
+  issued: 2020
+  title: New method for rapid identification and quantification of
+    fungal biomass using ergosterol autofluorescence.
+  type: article-journal
+- author:
+  - family: Castro
+    given: Natalia Ruben
+  - dropping-particle: Cristal dos
+    family: Santos
+    given: C Pinto
+  - dropping-particle: de
+    family: Campos
+    given: Vânia Emerich B
+  - family: Cardoso
+    given: Veronica
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: dos
+    family: Santos
+    given: Elisabete P
+  - family: Mansur
+    given: Claudia Regina E
+  container-title: "Colloids and Surfaces A: Physicochemical and
+    Engineering Aspects"
+  id: castro2021development
+  issued: 2021
+  page: 125476
+  publisher: Elsevier
+  title: Development of hybrid vesicular nanosystems composed of lipids
+    and chitosan for octyl methoxycinnamate encapsulation
+  type: article-journal
+  volume: 608
+- author:
+  - family: Vermelho
+    given: Alane B
+  - family: H Lopes
+    given: Angela
+  container-title: The Open Parasitology Journal
+  id: vermelho2010trypanosomatidae
+  issue: 1
+  issued: 2010
+  title: "Trypanosomatidae family: Biochemical features"
+  title-short: Trypanosomatidae family
+  type: article-journal
+  volume: 4
+- author:
+  - family: Mansoldo
+    given: Felipe Raposo Passos
+  - dropping-particle: da
+    family: Silva Cardoso
+    given: Veronica
+  - family: Junior
+    given: Athayde Neves
+  - family: Cedrola
+    given: Sabrina Martins Lage
+  - family: Maricato
+    given: Victor
+  - dropping-particle: Maria do
+    family: Socorro
+    given: S Rosa
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Analytical Methods
+  id: mansoldo2020quantification
+  issue: 45
+  issued: 2020
+  page: 5468-5475
+  publisher: Royal Society of Chemistry
+  title: Quantification of schizophyllan directly from the fermented
+    broth by ATR-FTIR and PLS regression
+  type: article-journal
+  volume: 12
+- author:
+  - family: Mansoldo
+    given: Felipe Raposo Passos
+  - family: Carta
+    given: Fabrizio
+  - family: Angeli
+    given: Andrea
+  - family: Cardoso
+    given: Veronica da Silva
+  - family: Supuran
+    given: Claudiu T
+  - family: Vermelho
+    given: Alane Beatriz
+  container-title: Molecules
+  id: mansoldo2020chagas
+  issue: 22
+  issued: 2020
+  page: 5483
+  publisher: Multidisciplinary Digital Publishing Institute
+  title: "Chagas disease: Perspectives on the past and present and
+    challenges in drug discovery"
+  title-short: Chagas disease
+  type: article-journal
+  volume: 25
+- author:
+  - family: Tiburcio
+    given: Samyra
+  - family: Macrae
+    given: Andrew
+  - family: Peixoto
+    given: Raquel
+  - family: Rachid
+    given: Caio
+  - family: Mansoldo
+    given: Felipe
+  - family: Alviano
+    given: Daniela
+  - family: Alviano
+    given: Celuta
+  - family: Ferreira
+    given: Davis
+  - family: Venâncio
+    given: Fabrı́cio
+  - family: Ferreira
+    given: Doneivan
+  - literal: others
+  id: tiburcio2020desulfovibrio
+  issued: 2020
+  title: Desulfovibrio and pseudomonas dominated enriched produced water
+    reinforcing their importance in oilfields and production processes
+  type: article-journal
+- author:
+  - family: Garcia
+    given: Andreza R
+  - family: Oliveira
+    given: Danielle MP
+  - family: Jesus
+    given: Jessica B
+  - family: Souza
+    given: Alessandra MT
+  - family: Sodero
+    given: Ana Carolina R
+  - family: Vermelho
+    given: Alane B
+  - family: Leal
+    given: Ivana CR
+  - family: Souza
+    given: Rodrigo Octavio
+  - family: Miranda
+    given: Leandro SM
+  - family: Pinheiro
+    given: Anderson S
+  - literal: others
+  container-title: Frontiers in Chemistry
+  id: garcia2021identification
+  issued: 2021
+  page: 1259
+  publisher: Frontiers
+  title: Identification of chalcone derivatives as inhibitors of
+    leishmania infantum arginase and promising antileishmanial agents
+  type: article-journal
+  volume: 8
+- author:
+  - dropping-particle: de
+    family: Almeida Dias
+    given: F
+  - dropping-particle: Nogueira de
+    family: Melo
+    given: AC
+  - family: Martins
+    given: JL
+  - family: De Carvalho Santos Lopes
+    given: AH
+  - family: Souza Dos Santos
+    given: AL
+  - family: Vermelho
+    given: AB
+  - family: Branquinha
+    given: MH
+  - literal: others
+  container-title: FEMS Microbiology Letters
+  id: de2006insights
+  issue: 1
+  issued: 2006
+  page: 149-156
+  title: Insights into the role of gp63-like proteins in lower
+    trypanosomatids.
+  type: article-journal
+  volume: 254
+- author:
+  - family: Campos
+    given: Fabricio S
+  - family: Albuquerque
+    given: Julia P
+  - family: Cabral
+    given: Maulori C
+  - family: EL
+    given: Fracalanzza Sergio
+  - family: Campos
+    given: Renata M
+  - family: Vermelho
+    given: Alane B
+  - family: Ferreira
+    given: Davis F
+  - literal: others
+  container-title: Microbiology Resource Announcements
+  id: campos2016genome
+  issue: 6
+  issued: 2016
+  publisher: American Society for Microbiology
+  title: Genome sequence of KP-rio/2015, a novel klebsiella pneumoniae
+    (podoviridae) phage
+  type: article-journal
+  volume: 4
+- author:
+  - family: Júnia
+    given: Schultz
+  - family: Reis
+    given: Mansur Maria Cristina Pinheiro Pereira
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Rosado
+    given: Alexandre Soares
+  - literal: others
+  container-title: Microbiology Resource Announcements
+  id: junia2017draft
+  issue: 29
+  issued: 2017
+  publisher: American Society for Microbiology
+  title: Draft genome sequence of microbacterium sp. Strain LEMMJ01,
+    isolated from antarctic ornithogenic soil
+  type: article-journal
+  volume: 5
+- author:
+  - family: Rodrigues
+    given: Igor de Almeida
+  - dropping-particle: da
+    family: Silva
+    given: Bianca Alcantara
+  - dropping-particle: Souza dos
+    family: Santos
+    given: Andre Luis
+  - family: Vermelho
+    given: Alane Beatriz
+  - family: Alviano
+    given: Celuta Sales
+  - family: Lourenco Dutra
+    given: Patricia Maria
+  - family: Santos Rosa
+    given: Maria do Socorro
+  container-title: PARASITOLOGY RESEARCH
+  id: rodrigues2010new
+  issue: 1
+  issued: 2010
+  page: 249-249
+  publisher: SPRINGER 233 SPRING ST, NEW YORK, NY 10013 USA
+  title: "A new experimental culture medium for cultivation of
+    leishmania amazonensis: Its efficacy for the continuous in vitro
+    growth and differentiation of infective promastigote forms (vol 106,
+    pg 1249, 2010)"
+  title-short: A new experimental culture medium for cultivation of
+    leishmania amazonensis
+  type: article-journal
+  volume: 107
+- author:
+  - family: Vermelho
+    given: Alane Beatriz
+  - dropping-particle: de
+    family: Souza
+    given: Edilma Paraguai
+  - family: Zingali
+    given: Russolina B
+  - family: Mazotto
+    given: Ana Maria
+  - dropping-particle: dos
+    family: Santos
+    given: Elisabete Pereira
+  - family: Aragão
+    given: Márcia Regina Senrra
+  - family: Villa
+    given: Ana Lúcia Vazquez
+  id: vermelho2013feather
+  issued: 2013
+  title: "Feather keratin hydrolysates obtained from microbial
+    keratinases: Effect on hair fiber"
+  title-short: Feather keratin hydrolysates obtained from microbial
+    keratinases
+  type: article-journal
+- author:
+  - family: Liu
+    given: Chi
+  - family: Ijaz
+    given: Umer Zeeshan
+  - family: Mansoldo
+    given: Felipe
+  - family: Li
+    given: Chenhao
+  - family: Cao
+    given: Yang
+  - family: Scott
+    given: Jarrod J
+  - family: Cui
+    given: Yaoming
+  - family: Vermelho
+    given: Alane B
+  - family: Li
+    given: Xiangzhen
+  - family: Yao
+    given: Minjie
+  id: liututorial
+  title: Tutorial for r microeco package (v0. 5.0)
+  type: article-journal
+---
+
