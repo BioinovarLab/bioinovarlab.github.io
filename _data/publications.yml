@@ -24,7 +24,8 @@ references:
   container-title: Current Enzyme Inhibition
   id: beatriz2007trypanosomatidae
   issue: 1
-  issued: 2007
+  issued:
+  - year: 2007
   page: 19-48
   publisher: Bentham Science Publishers
   title: "Trypanosomatidae peptidases: A target for drugs development"
@@ -49,7 +50,8 @@ references:
   container-title: Current Enzyme Inhibition
   id: capaci2010peptidase
   issue: 4
-  issued: 2010
+  issued:
+  - year: 2010
   page: 183-194
   publisher: Bentham Science Publishers
   title: Peptidase inhibitors as a possible therapeutic strategy for
@@ -62,7 +64,8 @@ references:
   container-title: Current Enzyme Inhibition
   id: beatriz2011editorial
   issue: 1
-  issued: 2011
+  issued:
+  - year: 2011
   page: 1-1
   publisher: Bentham Science Publishers
   title: "Editorial \\[hot topic: Enzyme inhibitors as new drugs for
@@ -77,7 +80,8 @@ references:
   container-title: Current Enzyme Inhibition
   id: beatriz2010editorial
   issue: 4
-  issued: 2010
+  issued:
+  - year: 2010
   page: 170-170
   publisher: Bentham Science Publishers
   title: "Editorial \\[hot topic: Enzyme inhibitors as new drugs for
@@ -102,7 +106,8 @@ references:
   container-title: Memorias do Instituto Oswaldo Cruz
   id: vermelho1996detection
   issue: 6
-  issued: 1996
+  issued:
+  - year: 1996
   page: 755-760
   publisher: Fundação Oswaldo Cruz
   title: Detection of extracellular proteases from microorganisms on
@@ -121,7 +126,8 @@ references:
   container-title: Journal of Eukaryotic Microbiology
   id: branquinha1996ubiquity
   issue: 2
-  issued: 1996
+  issued:
+  - year: 1996
   page: 131-135
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: Ubiquity of cysteine-and metalloproteinase activities in a wide
@@ -148,7 +154,8 @@ references:
   container-title: Journal of medicinal chemistry
   id: pan2013cloning
   issue: 4
-  issued: 2013
+  issued:
+  - year: 2013
   page: 1761-1771
   publisher: American Chemical Society
   title: Cloning, characterization, and sulfonamide and thiol inhibition
@@ -168,7 +175,8 @@ references:
   container-title: FEMS microbiology letters
   id: d2001differential
   issue: 1
-  issued: 2001
+  issued:
+  - year: 2001
   page: 73-77
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: Differential expression of proteolytic enzymes in
@@ -201,7 +209,8 @@ references:
   container-title: The ISME journal
   id: de2011genomic
   issue: 9
-  issued: 2011
+  issued:
+  - year: 2011
   page: 1471-1483
   publisher: Nature Publishing Group
   title: Genomic and proteomic analyses of the coral pathogen vibrio
@@ -234,7 +243,8 @@ references:
   container-title: World Journal of Microbiology and Biotechnology
   id: mazotto2011biodegradation
   issue: 6
-  issued: 2011
+  issued:
+  - year: 2011
   page: 1355-1365
   publisher: Springer Netherlands
   title: Biodegradation of feather waste by extracellular keratinases
@@ -257,7 +267,8 @@ references:
   container-title: Molecular and biochemical parasitology
   id: barreto1992structural
   issue: 2
-  issued: 1992
+  issued:
+  - year: 1992
   page: 263-270
   publisher: Elsevier
   title: Structural characterization of neutral glycosphingolipids from
@@ -280,7 +291,8 @@ references:
   container-title: Memórias do Instituto Oswaldo Cruz
   id: petinate1999influence
   issue: 2
-  issued: 1999
+  issued:
+  - year: 1999
   page: 173-177
   publisher: SciELO Brasil
   title: Influence of growth medium in proteinase and pigment production
@@ -301,7 +313,8 @@ references:
   container-title: Archives of Biochemistry and Biophysics
   id: d2003novel
   issue: 1
-  issued: 2003
+  issued:
+  - year: 2003
   page: 1-8
   publisher: Academic Press
   title: A novel extracellular calcium-dependent cysteine proteinase
@@ -324,7 +337,8 @@ references:
   container-title: Parasitology
   id: d2005proteolytic
   issue: 4
-  issued: 2005
+  issued:
+  - year: 2005
   page: 413-420
   publisher: Cambridge University Press
   title: "Proteolytic expression in blastocrithidia culicis: Influence
@@ -347,7 +361,8 @@ references:
   container-title: Microbes and infection
   id: santos2007phytomonas
   issue: 8
-  issued: 2007
+  issued:
+  - year: 2007
   page: 915-921
   publisher: Elsevier Masson
   title: "Phytomonas serpens: Immunological similarities with the human
@@ -368,7 +383,8 @@ references:
   container-title: Experimental parasitology
   id: de2001crithidia
   issue: 1
-  issued: 2001
+  issued:
+  - year: 2001
   page: 1-8
   publisher: Academic Press
   title: "Crithidia guilhermei: Purification and partial
@@ -398,7 +414,8 @@ references:
   container-title: Letters in applied microbiology
   id: mazotto2010keratinolytic
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   page: 89-96
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: Keratinolytic activity of bacillus subtilis AMR using human
@@ -419,7 +436,8 @@ references:
   container-title: Journal of applied microbiology
   id: petinate1999purification
   issue: 4
-  issued: 1999
+  issued:
+  - year: 1999
   page: 557-563
   publisher: Blackwell Science Ltd Oxford, UK
   title: Purification and partial characterization of an extracellular
@@ -435,7 +453,8 @@ references:
   container-title: Memórias do Instituto Oswaldo Cruz
   id: vermelho1994sialoglycoconjugates
   issue: 1
-  issued: 1994
+  issued:
+  - year: 1994
   page: 69-79
   publisher: Fundação Oswaldo Cruz
   title: "Sialoglycoconjugates in trypanosoma cruzi-host cell
@@ -468,7 +487,8 @@ references:
   - literal: others
   container-title: Memórias do Instituto Oswaldo Cruz
   id: meirelles1999trypanosoma
-  issued: 1999
+  issued:
+  - year: 1999
   page: 149-152
   publisher: Fundação Oswaldo Cruz
   title: "Trypanosoma cruzi-cardiomyocytes: New contributions regarding
@@ -501,7 +521,8 @@ references:
   container-title: Journal of medicinal chemistry
   id: syrjanen2013cloning
   issue: 18
-  issued: 2013
+  issued:
+  - year: 2013
   page: 7372-7381
   publisher: American Chemical Society
   title: Cloning, characterization, and inhibition studies of a
@@ -523,7 +544,8 @@ references:
   container-title: Canadian journal of microbiology
   id: d2003metalloproteinase
   issue: 10
-  issued: 2003
+  issued:
+  - year: 2003
   page: 625-632
   publisher: NRC Research Press
   title: A metalloproteinase extracellularly released by crithidia
@@ -552,7 +574,8 @@ references:
   container-title: FEMS microbiology letters
   id: d2006insights
   issue: 1
-  issued: 2006
+  issued:
+  - year: 2006
   page: 149-156
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: Insights into the role of gp63-like proteins in lower
@@ -581,7 +604,8 @@ references:
   container-title: Mycopathologia
   id: vermelho2010identification
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   page: 57
   publisher: Springer Netherlands
   title: Identification of a candida parapsilosis strain producing
@@ -604,7 +628,8 @@ references:
   container-title: Bioorganic & medicinal chemistry
   id: pan2013anion
   issue: 15
-  issued: 2013
+  issued:
+  - year: 2013
   page: 4472-4476
   publisher: Elsevier
   title: Anion inhibition studies of the $\alpha$-carbonic anhydrase
@@ -629,7 +654,8 @@ references:
   container-title: Hepatology research
   id: de2004reduced
   issue: 1
-  issued: 2004
+  issued:
+  - year: 2004
   page: 49-56
   publisher: No longer published by Elsevier
   title: Reduced activity of matrix metalloproteinase-9 in trypanosoma
@@ -649,7 +675,8 @@ references:
   container-title: Experimental parasitology
   id: de2002crithidia
   issue: 3-4
-  issued: 2002
+  issued:
+  - year: 2002
   page: 150-156
   publisher: Academic Press
   title: "Crithidia guilhermei: Gelatin-and haemoglobin-degrading
@@ -680,7 +707,8 @@ references:
   container-title: International journal for parasitology
   id: de2006peptidases
   issue: 4
-  issued: 2006
+  issued:
+  - year: 2006
   page: 415-422
   publisher: Pergamon
   title: "Peptidases and gp63-like proteins in herpetomonas megaseliae:
@@ -701,7 +729,8 @@ references:
   container-title: Canadian journal of microbiology
   id: vermelho2003extracellular
   issue: 3
-  issued: 2003
+  issued:
+  - year: 2003
   page: 221-224
   publisher: NRC Research Press
   title: Extracellular metalloproteinases in phytomonas serpens
@@ -738,7 +767,8 @@ references:
   container-title: Experimental Parasitology
   id: de2010detection
   issue: 3
-  issued: 2010
+  issued:
+  - year: 2010
   page: 256-263
   publisher: Academic Press
   title: Detection of matrix metallopeptidase-9-like proteins in
@@ -766,7 +796,8 @@ references:
   container-title: The Open Parasitology Journal
   id: h2010trypanosomatids
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   title: "Trypanosomatids: Odd organisms, devastating diseases"
   title-short: Trypanosomatids
   type: article-journal
@@ -787,7 +818,8 @@ references:
   container-title: Acta tropica
   id: costa2008vitro
   issue: 3
-  issued: 2008
+  issued:
+  - year: 2008
   page: 175-183
   publisher: Elsevier
   title: In vitro evidence for metallopeptidase participation in
@@ -815,7 +847,8 @@ references:
   container-title: World Journal of Microbiology and Biotechnology
   id: cedrola2012keratinases
   issue: 3
-  issued: 2012
+  issued:
+  - year: 2012
   page: 1259-1269
   publisher: Springer Netherlands
   title: Keratinases and sulfide from bacillus subtilis SLC to recycle
@@ -835,7 +868,8 @@ references:
     Comparative biochemistry
   id: barreto1985glycolipid
   issue: 3
-  issued: 1985
+  issued:
+  - year: 1985
   page: 543-545
   title: Glycolipid components of epimastigote forms of trypanosoma
     cruzi.
@@ -855,7 +889,8 @@ references:
   container-title: FEMS Immunology & Medical Microbiology
   id: da2009identification
   issue: 3
-  issued: 2009
+  issued:
+  - year: 2009
   page: 396-403
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: "Identification, antifungal susceptibility and scanning
@@ -881,7 +916,8 @@ references:
   container-title: Acta tropica
   id: vermelho1997heart
   issue: 3-4
-  issued: 1997
+  issued:
+  - year: 1997
   page: 131-143
   publisher: Elsevier
   title: Heart muscle cells share common neutral glycosphingolipids with
@@ -908,7 +944,8 @@ references:
   container-title: FEMS microbiology letters
   id: d2005influence
   issue: 2
-  issued: 2005
+  issued:
+  - year: 2005
   page: 279-286
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: Influence of the endosymbiont of blastocrithidia culicis and
@@ -936,7 +973,8 @@ references:
   container-title: Journal of medicinal chemistry
   id: guzel2013class
   issue: 14
-  issued: 2013
+  issued:
+  - year: 2013
   page: 5773-5781
   publisher: American Chemical Society
   title: A class of sulfonamides with strong inhibitory action against
@@ -953,7 +991,8 @@ references:
   container-title: The Journal of protozoology
   id: vermelho1986isolation
   issue: 2
-  issued: 1986
+  issued:
+  - year: 1986
   page: 208-213
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: Isolation and characterization of a neutral glycosphingolipid
@@ -972,7 +1011,8 @@ references:
   container-title: Parasitology research
   id: almeida2003extracellular
   issue: 4
-  issued: 2003
+  issued:
+  - year: 2003
   page: 320-322
   publisher: Springer-Verlag
   title: Extracellular metalloproteinase activity in phytomonas françai
@@ -997,7 +1037,8 @@ references:
   container-title: Parasitology research
   id: de2010new
   issue: 5
-  issued: 2010
+  issued:
+  - year: 2010
   page: 1249-1252
   publisher: Springer-Verlag
   title: "A new experimental culture medium for cultivation of
@@ -1027,7 +1068,8 @@ references:
   container-title: FEMS microbiology letters
   id: d2004differential
   issue: 2
-  issued: 2004
+  issued:
+  - year: 2004
   page: 171-176
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: "Differential lectin recognition of glycoproteins in
@@ -1049,7 +1091,8 @@ references:
     given: L
   container-title: Mem Inst Oswaldo Cruz
   id: previato1990evidence
-  issued: 1990
+  issued:
+  - year: 1990
   page: 38-39
   title: Evidence for n-glycolylneuraminic acid incorporation by
     trypanosoma cruzi from infected animal
@@ -1070,7 +1113,8 @@ references:
     given: Ana Cristina Nogueira de
   - literal: others
   id: vermelho2010biological
-  issued: 2010
+  issued:
+  - year: 2010
   publisher: Bentham Open
   title: Biological roles of peptidases in trypanosomatids
   type: article-journal
@@ -1093,7 +1137,8 @@ references:
     given: Alane Beatriz
   container-title: Enzyme research
   id: mazotto2011keratinase
-  issued: 2011
+  issued:
+  - year: 2011
   publisher: Hindawi
   title: Keratinase production by three bacillus spp. Using feather meal
     and whole feather as substrate in a submerged fermentation
@@ -1108,7 +1153,8 @@ references:
     given: AS
   container-title: Enzyme research
   id: peixoto2011petroleum
-  issued: 2011
+  issued:
+  - year: 2011
   publisher: Hindawi
   title: "Petroleum-degrading enzymes: Bioremediation and new prospects"
   title-short: Petroleum-degrading enzymes
@@ -1133,7 +1179,8 @@ references:
     given: AB
   container-title: Brazilian Journal of medical and biological research
   id: duarte2011increased
-  issued: 2011
+  issued:
+  - year: 2011
   page: 212-216
   publisher: Associação Brasileira de Divulgação Cientı́fica
   title: Increased expression of keratinase and other peptidases by
@@ -1153,7 +1200,8 @@ references:
   container-title: Acta tropica
   id: vermelho1992glycolipid
   issue: 1
-  issued: 1992
+  issued:
+  - year: 1992
   page: 17-25
   publisher: Elsevier
   title: Glycolipid and protein profiles of normal and trypanosoma cruzi
@@ -1176,7 +1224,8 @@ references:
   container-title: FEMS yeast research
   id: nogueira2007peptidase
   issue: 6
-  issued: 2007
+  issued:
+  - year: 2007
   page: 1004-1012
   publisher: Blackwell Publishing Ltd Oxford, UK
   title: Peptidase profiles from non-albicans candida spp. Isolated from
@@ -1197,7 +1246,8 @@ references:
     given: Alane Beatriz
   container-title: Memórias do Instituto Oswaldo Cruz
   id: lopes1999extracellular
-  issued: 1999
+  issued:
+  - year: 1999
   page: 763-770
   publisher: Instituto Oswaldo Cruz, Ministério da Saúde
   title: "Extracellular serine-proteinases isolated from streptomyces
@@ -1231,7 +1281,8 @@ references:
   container-title: Journal of medicinal chemistry
   id: rodrigues2014design
   issue: 2
-  issued: 2014
+  issued:
+  - year: 2014
   page: 298-308
   publisher: American Chemical Society
   title: Design, synthesis, and evaluation of hydroxamic acid
@@ -1247,7 +1298,8 @@ references:
     given: Marta Helena Branquinha de
   container-title: Bacteriologia geral
   id: vermelho2007bacteriologia
-  issued: 2007
+  issued:
+  - year: 2007
   page: 582-582
   title: Bacteriologia geral
   type: chapter
@@ -1269,7 +1321,8 @@ references:
   container-title: Enzimas em biotecnologia-Produção, aplicações e
     mercado
   id: vermelho2008enzimas
-  issued: 2008
+  issued:
+  - year: 2008
   page: 273-287
   title: "Enzimas proteolı́ticas: Aplicações biotecnológicas"
   title-short: Enzimas proteolı́ticas
@@ -1288,7 +1341,8 @@ references:
   container-title: Molecular and biochemical parasitology
   id: branquinha1999structural
   issue: 1
-  issued: 1999
+  issued:
+  - year: 1999
   page: 179-189
   publisher: Elsevier
   title: Structural studies on the polar glycoinositol phospholipids of
@@ -1308,7 +1362,8 @@ references:
     Revista brasileira de pesquisas medicas e biologicas
   id: branquinha1994characterization
   issue: 2
-  issued: 1994
+  issued:
+  - year: 1994
   page: 495-499
   title: Characterization of proteinases in trypanosomatids.
   type: article-journal
@@ -1326,7 +1381,8 @@ references:
   container-title: Parasitology research
   id: branquinha1994glycolipid
   issue: 4
-  issued: 1994
+  issued:
+  - year: 1994
   page: 336-341
   publisher: Springer-Verlag
   title: Glycolipid and protein profiles in trypanosomatids
@@ -1357,7 +1413,8 @@ references:
   container-title: Mycopathologia
   id: lopes200825
   issue: 1
-  issued: 2008
+  issued:
+  - year: 2008
   page: 35-40
   publisher: Springer Netherlands
   title: A 25-kDa serine peptidase with keratinolytic activity secreted
@@ -1372,7 +1429,8 @@ references:
   container-title: Biotechnology for biofuels
   id: mendes2013allelopathy
   issue: 1
-  issued: 2013
+  issued:
+  - year: 2013
   page: 1-14
   publisher: BioMed Central
   title: Allelopathy as a potential strategy to improve microalgae
@@ -1393,7 +1451,8 @@ references:
   container-title: Biomedical letters
   id: vermelho1992role
   issue: 185
-  issued: 1992
+  issued:
+  - year: 1992
   page: 113-123
   title: Role of a glycosphingolipid isolated from trypanosoma cruzi on
     the interaction of t. Cruzi with heart muscle cells
@@ -1410,7 +1469,8 @@ references:
   container-title: Parasitology research
   id: de2004proteolytic
   issue: 5
-  issued: 2004
+  issued:
+  - year: 2004
   page: 342-348
   publisher: Springer-Verlag
   title: "Proteolytic activities in trypanosoma rangeli and stercorarian
@@ -1433,7 +1493,8 @@ references:
   container-title: Current microbiology
   id: branquinha1995use
   issue: 2
-  issued: 1995
+  issued:
+  - year: 1995
   page: 77-82
   publisher: Springer-Verlag
   title: Use of glycoconjugates for trypanosomatid taxonomy
@@ -1466,7 +1527,8 @@ references:
   container-title: The Open Parasitology Journal
   id: beatriz2010trypanosoma
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   title: "Trypanosoma cruzi peptidases: An overview"
   title-short: Trypanosoma cruzi peptidases
   type: article-journal
@@ -1488,7 +1550,8 @@ references:
   container-title: Parasitology research
   id: abreu2001surface
   issue: 2
-  issued: 2001
+  issued:
+  - year: 2001
   page: 138-144
   publisher: Springer-Verlag
   title: Surface component characterization as taxonomic tools for
@@ -1513,7 +1576,8 @@ references:
   container-title: Bmc Biotechnology
   id: villa2013feather
   issue: 1
-  issued: 2013
+  issued:
+  - year: 2013
   page: 1-11
   publisher: BioMed Central
   title: "Feather keratin hydrolysates obtained from microbial
@@ -1544,7 +1608,8 @@ references:
   container-title: BMC complementary and alternative medicine
   id: rodrigues2013vitro
   issue: 1
-  issued: 2013
+  issued:
+  - year: 2013
   page: 1-9
   publisher: BioMed Central
   title: In vitro cytocidal effects of the essential oil from croton
@@ -1567,7 +1632,8 @@ references:
     given: Alane Beatriz
   container-title: Brazilian Journal of Microbiology
   id: chaia2000identification
-  issued: 2000
+  issued:
+  - year: 2000
   page: 25-29
   publisher: Sociedade Brasileira de Microbiologia
   title: Identification and properties of two extracellular proteases
@@ -1586,7 +1652,8 @@ references:
   container-title: The Journal of eukaryotic microbiology
   id: barreto1996monohexosylceramides
   issue: 6
-  issued: 1996
+  issued:
+  - year: 1996
   page: 486-488
   title: Monohexosylceramides of trypanosoma dionisii.
   type: article-journal
@@ -1611,7 +1678,8 @@ references:
   container-title: Journal of Eukaryotic Microbiology
   id: d2009bodo
   issue: 5
-  issued: 2009
+  issued:
+  - year: 2009
   page: 454-458
   publisher: Blackwell Publishing Inc Malden, USA
   title: Bodo sp., A free-living flagellate, expresses divergent
@@ -1628,7 +1696,8 @@ references:
     given: Jose M
   container-title: Enzyme research
   id: vermelho2012microbial
-  issued: 2012
+  issued:
+  - year: 2012
   publisher: Hindawi
   title: "Microbial enzyme: Applications in industry and in
     bioremediation"
@@ -1655,7 +1724,8 @@ references:
   container-title: The Open Parasitology Journal
   id: h2010intracellular
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   title: Intracellular signaling pathways involved in cell
     differentiation in trypanosomatids
   type: article-journal
@@ -1671,7 +1741,8 @@ references:
     given: Alane Beatriz
   container-title: International Biodeterioration & Biodegradation
   id: mazotto2013degradation
-  issued: 2013
+  issued:
+  - year: 2013
   page: 189-195
   publisher: Elsevier
   title: "Degradation of feather waste by aspergillus niger keratinases:
@@ -1695,7 +1766,8 @@ references:
     given: Alane B
   container-title: BioMed research international
   id: rodrigues2014arrabidaea
-  issued: 2014
+  issued:
+  - year: 2014
   publisher: Hindawi
   title: Arrabidaea chica hexanic extract induces mitochondrion damage
     and peptidase inhibition on leishmania spp.
@@ -1711,7 +1783,8 @@ references:
   container-title: Parasitology Research
   id: santa2004proteolytic
   issue: 94
-  issued: 2004
+  issued:
+  - year: 2004
   page: 342-348
   title: "Proteolytic activities in trypanosoma rangeli and stercorarian
     trypanosomes: Taxonomic implications"
@@ -1732,7 +1805,8 @@ references:
   - family: Dos Santos
     given: Elizabete Pereira
   id: vermelho2010keratin
-  issued: 2010
+  issued:
+  - year: 2010
   note: US Patent App. 12/666,409
   title: Keratin hydrolysates, process for their production and cosmetic
     composition containing the same
@@ -1745,7 +1819,8 @@ references:
     given: Maria de Nazareth L de
   container-title: Ciênc. cult.(Säo Paulo)
   id: vermelho1998use
-  issued: 1998
+  issued:
+  - year: 1998
   page: 45-51
   title: "Use of the detergent triton in biochemical and biological
     research: A minireview"
@@ -1777,7 +1852,8 @@ references:
   container-title: Journal of Medicinal Plants Research
   id: rodrigues2011vitro
   issue: 16
-  issued: 2011
+  issued:
+  - year: 2011
   page: 3781-3790
   publisher: Academic Journals
   title: In vitro anti-leishmania amazonensis activity of the polymeric
@@ -1799,7 +1875,8 @@ references:
     Bacteriology and Biotechnology. Springer Berlin Heidelberg: Berlin,
     Heidelberg"
   id: vermelho2013diversity
-  issued: 2013
+  issued:
+  - year: 2013
   page: 213-240
   title: Diversity and biotechnological applications of prokaryotic
     enzymes
@@ -1812,7 +1889,8 @@ references:
   container-title: The Open Parasitology Journal
   id: barreto2010structures
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   title: "Structures of glycolipids found in trypanosomatids:
     Contribution to parasite functions"
   title-short: Structures of glycolipids found in trypanosomatids
@@ -1840,7 +1918,8 @@ references:
   container-title: Journal of enzyme inhibition and medicinal chemistry
   id: costa2014inhibitory
   issue: 1
-  issued: 2014
+  issued:
+  - year: 2014
   page: 12-17
   publisher: Taylor & Francis
   title: Inhibitory effect of linalool-rich essential oil from lippia
@@ -1868,7 +1947,8 @@ references:
   container-title: Leishmaniasis---Trends in Epidemiology, Diagnosis and
     Treatment; Claborn, DM, Ed
   id: vermelho2014leishmaniasis
-  issued: 2014
+  issued:
+  - year: 2014
   page: 351-376
   title: "Leishmaniasis: Possible new strategies for treatment"
   title-short: Leishmaniasis
@@ -1882,7 +1962,8 @@ references:
     given: Sabrina Martins
   container-title: Methods to Determine Enzymatic Activity
   id: vermelho2013keratinases
-  issued: 2013
+  issued:
+  - year: 2013
   page: 226
   publisher: Bentham Science Publishers
   title: "Keratinases: Detection methods"
@@ -1904,7 +1985,8 @@ references:
   container-title: Journal of enzyme inhibition and medicinal chemistry
   id: alafeefy2015new
   issue: 4
-  issued: 2015
+  issued:
+  - year: 2015
   page: 581-585
   publisher: Informa Healthcare
   title: A new class of quinazoline-sulfonamides acting as efficient
@@ -1920,7 +2002,8 @@ references:
   container-title: MEMORIAS DO INSTITUTO OSWALDO CRUZ
   id: vermelho1994sialoglycoconjugates
   issue: 2
-  issued: 1994
+  issued:
+  - year: 1994
   page: U5-U5
   publisher: MEM INST OSWALDO CRUZ SECRETARY CAIXA POSTAL 926, 20001 RIO
     DE JANEIRO, RJ ...
@@ -1947,7 +2030,8 @@ references:
     given: Igor A
   container-title: BioMed research international
   id: amaral2014liposomal
-  issued: 2014
+  issued:
+  - year: 2014
   publisher: Hindawi
   title: Liposomal formulation of turmerone-rich hexane fractions from
     curcuma longa enhances their antileishmanial activity
@@ -1965,7 +2049,8 @@ references:
     given: Alane Beatriz
   container-title: Hydroxamic acids
   id: rodrigues2013therapeutic
-  issued: 2013
+  issued:
+  - year: 2013
   page: 255-279
   publisher: Springer, Berlin, Heidelberg
   title: Therapeutic potential of hydroxamic acids for microbial
@@ -1985,7 +2070,8 @@ references:
     given: MDL
   container-title: MOLECULAR BIOLOGY OF THE CELL
   id: costa2001behaviour
-  issued: 2001
+  issued:
+  - year: 2001
   page: 519A-519A
   publisher: AMER SOC CELL BIOLOGY 8120 WOODMONT AVE, STE 750, BETHESDA,
     MD 20814-2755 USA
@@ -2029,7 +2115,8 @@ references:
   container-title: "International journal of biomedical science: IJBS"
   id: de2008analysis
   issue: 2
-  issued: 2008
+  issued:
+  - year: 2008
   page: 97
   publisher: Master Publishing Group
   title: Analysis of peptidases in non-infected and trypanosoma
@@ -2056,7 +2143,8 @@ references:
   container-title: Current Microbiology
   id: de1994alterations
   issue: 5
-  issued: 1994
+  issued:
+  - year: 1994
   page: 269-273
   publisher: Springer-Verlag
   title: Alterations induced by penicillin in the protein profile and
@@ -2082,7 +2170,8 @@ references:
   container-title: Extremophiles
   id: dalmaso2015extracellular
   issue: 5
-  issued: 2015
+  issued:
+  - year: 2015
   page: 989-999
   publisher: Springer Japan
   title: Extracellular peptidases from deinococcus radiodurans
@@ -2107,7 +2196,8 @@ references:
     given: Alane B
   container-title: Mediators of inflammation
   id: rodrigues2015natural
-  issued: 2015
+  issued:
+  - year: 2015
   publisher: Hindawi
   title: "Natural products: Insights into leishmaniasis inflammatory
     response"
@@ -2137,7 +2227,8 @@ references:
   container-title: Journal of enzyme inhibition and medicinal chemistry
   id: de2016hydroxamic
   issue: 6
-  issued: 2016
+  issued:
+  - year: 2016
   page: 964-973
   publisher: Taylor & Francis
   title: "Hydroxamic acid derivatives: A promising scaffold for rational
@@ -2149,7 +2240,8 @@ references:
   - family: Vermelho
     given: Alane Beatriz
   id: vermelho2006praticas
-  issued: 2006
+  issued:
+  - year: 2006
   publisher: Guanabara Koogan
   title: Práticas de microbiologia
   type: book
@@ -2159,7 +2251,8 @@ references:
     suffix: Veronica Cardoso
   container-title: Advances in food biotechnology
   id: alane2015application
-  issued: 2015
+  issued:
+  - year: 2015
   page: 400
   publisher: John Wiley & Sons,
   title: Application of microbial enzymes in the food industry.
@@ -2170,7 +2263,8 @@ references:
     suffix: Veronica Cardoso
   container-title: Advances in food biotechnology
   id: alane2015application
-  issued: 2015
+  issued:
+  - year: 2015
   page: 400
   publisher: John Wiley & Sons,
   title: Application of microbial enzymes in the food industry.
@@ -2198,7 +2292,8 @@ references:
     given: Elisabete P
   container-title: Revista Brasileira de Farmacognosia
   id: mansur2016vitro
-  issued: 2016
+  issued:
+  - year: 2016
   page: 251-258
   publisher: Sociedade Brasileira de Farmacognosia
   title: In vitro and in vivo evaluation of efficacy and safety of
@@ -2218,7 +2313,8 @@ references:
     given: Maria Auxiliadora
   - literal: others
   id: santa2002proteinase
-  issued: 2002
+  issued:
+  - year: 2002
   title: Proteinase profiles in trypanosoma rangeli tejera, 1920 strains
     and some stercorarian trypanosomes
   type: article-journal
@@ -2233,7 +2329,8 @@ references:
     given: AB
   - literal: others
   id: melo2007zymographic
-  issued: 2007
+  issued:
+  - year: 2007
   title: Zymographic analysis of proteinases in trypanosoma
     cruzi-infected hepatocyte cultures using different protein
     substrates
@@ -2253,7 +2350,8 @@ references:
     given: MC
   - literal: others
   id: branquinha1996cysteine
-  issued: 1996
+  issued:
+  - year: 1996
   title: Cysteine and metalloproteinases are the major proteolytic
     activities expressed by trypanosomatids
   type: article-journal
@@ -2270,7 +2368,8 @@ references:
     given: MH
   - literal: others
   id: sousa2003analise
-  issued: 2003
+  issued:
+  - year: 2003
   title: "Análise da atividade proteolı́tica de formas de cultivo axênico
     de trypanosoma rangeli tejera, 1920 e outras espécies de trypanosoma
     da seção stercoraria: Implicações de valor taxonômico."
@@ -2291,7 +2390,8 @@ references:
     given: Giseli Capaci
   container-title: Revista Interdisciplinar de Estudos em Saúde
   id: caldas2016avaliaccao
-  issued: 2016
+  issued:
+  - year: 2016
   page: 127-135
   title: AVALIAÇÃo DO EFEITO DE DERIVADOS DO ÁCIDO HIDROXÂMICO NA
     VIABILIDADE CELULAR DE MICRO-ORGANISMOS CAUSADORES DE DOENÇAS BUCAIS
@@ -2334,7 +2434,8 @@ references:
     given: Alane Beatriz
   container-title: International Biodeterioration & Biodegradation
   id: de2016biodegradation
-  issued: 2016
+  issued:
+  - year: 2016
   page: 199-204
   publisher: Elsevier
   title: Biodegradation of keratin by trichosporum loubieri RC-S6
@@ -2366,7 +2467,8 @@ references:
   container-title: Toxins
   id: da2016antigenotoxic
   issue: 11
-  issued: 2016
+  issued:
+  - year: 2016
   page: 316
   publisher: Multidisciplinary Digital Publishing Institute
   title: Antigenotoxic effect of piperine in broiler chickens
@@ -2393,7 +2495,8 @@ references:
   container-title: Journal of Medicinal Plants Research
   id: gabriel2016antileishmanial
   issue: 42
-  issued: 2016
+  issued:
+  - year: 2016
   page: 775-782
   publisher: Academic Journals
   title: Antileishmanial effects of the alkaloid-rich fraction of
@@ -2420,7 +2523,8 @@ references:
   container-title: Genome announcements
   id: meira2016genome
   issue: 6
-  issued: 2016
+  issued:
+  - year: 2016
   page: e01298-16
   publisher: American Society for Microbiology 1752 N St., NW,
     Washington, DC
@@ -2452,7 +2556,8 @@ references:
   container-title: Nanotechnology
   id: de2017development
   issue: 6
-  issued: 2017
+  issued:
+  - year: 2017
   page: 065101
   publisher: IOP Publishing
   title: Development and evaluation of zinc phthalocyanine nanoemulsions
@@ -2474,7 +2579,8 @@ references:
   - family: Batocchio
     given: Marcelo Adriano Pavanelli
   id: pengo2017method
-  issued: 2017
+  issued:
+  - year: 2017
   note: US Patent 9,783,435
   title: Method for bacteria control, method for fungi control, method
     for virus control, method for preventing encrustation on surfaces
@@ -2495,7 +2601,8 @@ references:
   container-title: Bioorganic & medicinal chemistry
   id: vermelho2017carbonic
   issue: 5
-  issued: 2017
+  issued:
+  - year: 2017
   page: 1543-1555
   publisher: Pergamon
   title: Carbonic anhydrases from trypanosoma and leishmania as
@@ -2514,7 +2621,8 @@ references:
     given: Giseli Capaci
   container-title: Methods to Determine Enzymatic Activity
   id: vermelho2013qualitative
-  issued: 2013
+  issued:
+  - year: 2013
   page: 262
   publisher: Bentham Science Publishers
   title: Qualitative and quantitative to determine peptidase activity
@@ -2545,7 +2653,8 @@ references:
   container-title: Drug development-a case study based insight into
     modern strategies
   id: vermelho2011novel
-  issued: 2011
+  issued:
+  - year: 2011
   publisher: IntechOpen
   title: Novel therapeutic strategies for ChagasDisease
   type: chapter
@@ -2565,7 +2674,8 @@ references:
   - family: Ferreira
     given: Davis F
   id: vermelho2014efeito
-  issued: 2014
+  issued:
+  - year: 2014
   title: EFEITO DE SUBSTÂNCIA BIOATIVA DE MAMONA SOBRE BACTÉRIA REDUTORA
     DE SULFATO (BRS)
   type: article-journal
@@ -2591,7 +2701,8 @@ references:
   container-title: Pharmaceutical biology
   id: garcia2017cytotoxicity
   issue: 1
-  issued: 2017
+  issued:
+  - year: 2017
   page: 1780-1786
   publisher: Taylor & Francis
   title: Cytotoxicity and anti-leishmania amazonensis activity of citrus
@@ -2614,7 +2725,8 @@ references:
     given: Alane Beatriz
   container-title: LWT
   id: mazotto2017production
-  issued: 2017
+  issued:
+  - year: 2017
   page: 701-709
   publisher: Academic Press
   title: Production of feather protein hydrolyzed by b. Subtilis AMR and
@@ -2637,7 +2749,8 @@ references:
   container-title: Embrapa amazônia ocidental-resumo em anais de
     congresso (ALICE)
   id: rodrigues2012efeito
-  issued: 2012
+  issued:
+  - year: 2012
   publisher: "In: REUNIÃO ANUAL DA SBPC, 64., 2012, São Luı́s. Ciência,
     cultura e saberes ..."
   title: Efeito inibitório do extrato hexânico de arrabidaea chica
@@ -2663,7 +2776,8 @@ references:
   container-title: Embrapa amazônia ocidental-resumo em anais de
     congresso (ALICE)
   id: rodrigues2011efeito
-  issued: 2011
+  issued:
+  - year: 2011
   publisher: "In: CONGRESSO BRASILEIRO DE MICROBIOLOGIA, 26., 2011, Foz
     do Iguaçu. Resumos ..."
   title: Efeito citocida dos extratos de arrabidaea chica em leishmania
@@ -2687,7 +2801,8 @@ references:
   container-title: Genome announcements
   id: schultz2017draft
   issue: 29
-  issued: 2017
+  issued:
+  - year: 2017
   page: e00672-17
   publisher: American Society for Microbiology 1752 N St., NW,
     Washington, DC
@@ -2705,7 +2820,8 @@ references:
   container-title: Marine drugs
   id: dalmaso2015marine
   issue: 4
-  issued: 2015
+  issued:
+  - year: 2015
   page: 1925-1965
   publisher: Multidisciplinary Digital Publishing Institute
   title: "Marine extremophiles: A source of hydrolases for
@@ -2734,7 +2850,8 @@ references:
   container-title: Journal of enzyme inhibition and medicinal chemistry
   id: vermelho2018nanoemulsions
   issue: 1
-  issued: 2018
+  issued:
+  - year: 2018
   page: 139-146
   publisher: Taylor & Francis
   title: Nanoemulsions of sulfonamide carbonic anhydrase inhibitors
@@ -2758,7 +2875,8 @@ references:
   container-title: Journal of enzyme inhibition and medicinal chemistry
   id: da2018antileishmanial
   issue: 1
-  issued: 2018
+  issued:
+  - year: 2018
   page: 850-857
   publisher: Taylor & Francis
   title: Antileishmanial activity of sulphonamide nanoemulsions
@@ -2786,7 +2904,8 @@ references:
   - family: Editora
     given: A
   id: herculano2003cerebro
-  issued: 2003
+  issued:
+  - year: 2003
   publisher: Vieira & Lent
   title: O cérebro e os prazeres da vida cotidiana
 - author:
@@ -2814,7 +2933,8 @@ references:
   container-title: ACS medicinal chemistry letters
   id: bonardi2018n
   issue: 4
-  issued: 2018
+  issued:
+  - year: 2018
   page: 413-418
   publisher: American Chemical Society
   title: "N-nitrosulfonamides as carbonic anhydrase inhibitors: A
@@ -2839,7 +2959,8 @@ references:
   container-title: 3 Biotech
   id: de2019keratinolytic
   issue: 1
-  issued: 2019
+  issued:
+  - year: 2019
   page: 1-12
   publisher: Springer International Publishing
   title: Keratinolytic activity of bacillus subtilis LFB-FIOCRUZ 1266
@@ -2870,7 +2991,8 @@ references:
   - literal: others
   container-title: Revista Brasileira de Farmacognosia
   id: lavinas2019brazilian
-  issued: 2019
+  issued:
+  - year: 2019
   page: 389-399
   publisher: Sociedade Brasileira de Farmacognosia
   title: "Brazilian stingless bee propolis and geopropolis: Promising
@@ -2902,7 +3024,8 @@ references:
   - literal: others
   container-title: "The ISME Journal-pages: 5: 1471-1483"
   id: thompson2011genomic
-  issued: 2011
+  issued:
+  - year: 2011
   title: Genomic and proteomic analyses of the coral pathogen vibrio
     coralliilyticus reveal a diverse virulence repertoire
   type: article-journal
@@ -2935,7 +3058,8 @@ references:
     given: CLAUDIA
   - literal: others
   id: d2003novel
-  issued: 2003
+  issued:
+  - year: 2003
   title: A novel calcium-dependent cysteine proteinase from crithidia
     deanei
   type: article-journal
@@ -2945,7 +3069,8 @@ references:
   - family: Couri
     given: Sonia
   id: vermelho2013methods
-  issued: 2013
+  issued:
+  - year: 2013
   publisher: Bentham Science Publishers
   title: Methods to determine enzymatic activity
 - author:
@@ -2968,7 +3093,8 @@ references:
     given: Marta H
   - literal: others
   id: d2009sp
-  issued: 2009
+  issued:
+  - year: 2009
   title: Sp., A free-living flagellate, expresses divergent proteolytic
     activities from the closely related parasitic trypanosomatids
   type: article-journal
@@ -2995,7 +3121,8 @@ references:
     given: Mirian Cláudia de Souza
   - literal: others
   id: melo2010detection
-  issued: 2010
+  issued:
+  - year: 2010
   publisher: Elsevier
   title: Detection of matrix metallopeptidase-9-like proteins in
     trypanosoma cruzi
@@ -3022,7 +3149,8 @@ references:
   container-title: Nanotechnology
   id: cerqueira2019nanovesicle
   issue: 34
-  issued: 2019
+  issued:
+  - year: 2019
   page: 345102
   publisher: IOP Publishing
   title: "Nanovesicle-based formulations for photoprotection: A safety
@@ -3046,7 +3174,8 @@ references:
   container-title: Analyst
   id: mansoldo2019evaluation
   issue: 13
-  issued: 2019
+  issued:
+  - year: 2019
   page: 4111-4120
   publisher: Royal Society of Chemistry
   title: Evaluation of kluyveromyces marxianus endo-polygalacturonase
@@ -3077,7 +3206,8 @@ references:
   container-title: Journal of enzyme inhibition and medicinal chemistry
   id: garcia2019leishmania
   issue: 1
-  issued: 2019
+  issued:
+  - year: 2019
   page: 1100-1109
   publisher: Taylor & Francis
   title: "Leishmania infantum arginase: Biochemical characterization and
@@ -3107,7 +3237,8 @@ references:
   container-title: Journal of enzyme inhibition and medicinal chemistry
   id: nocentini2019appraisal
   issue: 1
-  issued: 2019
+  issued:
+  - year: 2019
   page: 1164-1171
   publisher: Taylor & Francis
   title: Appraisal of anti-protozoan activity of nitroaromatic
@@ -3143,7 +3274,8 @@ references:
   container-title: Scientific reports
   id: reis2019carotenoids
   issue: 1
-  issued: 2019
+  issued:
+  - year: 2019
   page: 1-14
   publisher: Nature Publishing Group
   title: Carotenoids from UV-resistant antarctic microbacterium sp.
@@ -3175,7 +3307,8 @@ references:
   container-title: Nanotechnology
   id: de2019clove
   issue: 42
-  issued: 2019
+  issued:
+  - year: 2019
   page: 425101
   publisher: IOP Publishing
   title: Clove oil nanoemulsion showed potent inhibitory effect against
@@ -3206,7 +3339,8 @@ references:
   - literal: others
   container-title: Revista Brasileira de Farmacognosia
   id: gabriel2020beta
-  issued: 2020
+  issued:
+  - year: 2020
   page: 755-762
   publisher: Sociedade Brasileira de Farmacognosia
   title: "$\\beta$-carboline-1-propionic acid alkaloid: Antileishmanial
@@ -3235,7 +3369,8 @@ references:
   container-title: "Colloids and Surfaces A: Physicochemical and
     Engineering Aspects"
   id: nigro2020development
-  issued: 2020
+  issued:
+  - year: 2020
   page: 124132
   publisher: Elsevier
   title: Development, characterization and in vitro toxicity evaluation
@@ -3249,7 +3384,8 @@ references:
   container-title: "Vermelho AB, Bastos MCF, Sa MHB. Bacteriologia
     geral. Rio de Janeiro: Guanabara Koogan"
   id: vermelho2007nutriccao
-  issued: 2007
+  issued:
+  - year: 2007
   page: 123-83
   title: Nutrição e crescimento das células procarióticas
   type: article-journal
@@ -3263,7 +3399,8 @@ references:
   container-title: Expert opinion on drug discovery
   id: vermelho2020hasn
   issue: 2
-  issued: 2020
+  issued:
+  - year: 2020
   page: 145-158
   publisher: Taylor & Francis
   title: Why hasn't there been more progress in new chagas disease drug
@@ -3285,7 +3422,8 @@ references:
     given: Elisabete Pereira dos
   container-title: Brazilian Journal of Pharmaceutical Sciences
   id: teixeira2019development
-  issued: 2019
+  issued:
+  - year: 2019
   publisher: Universidade de São Paulo, Faculdade de Ciências
     Farmacêuticas
   title: Development and characterization of photoprotective
@@ -3317,7 +3455,8 @@ references:
   - literal: others
   container-title: Open Parasitol J
   id: vermelho2010trypanosoma
-  issued: 2010
+  issued:
+  - year: 2010
   page: 120-131
   title: "Trypanosoma cruzi peptidases: An overview"
   title-short: Trypanosoma cruzi peptidases
@@ -3339,7 +3478,8 @@ references:
   container-title: Revista Virtual de Quimica
   id: silva2019antiparasitic
   issue: 5
-  issued: 2019
+  issued:
+  - year: 2019
   page: 1498-1512
   title: Antiparasitic activity and characterization of lignans from the
     ethanolic extract of zanthoxylum monogynum a. St-hil. leaves
@@ -3363,7 +3503,8 @@ references:
     given: Alane Beatriz
   container-title: Journal of Microbiological Methods
   id: junior2020microplate
-  issued: 2020
+  issued:
+  - year: 2020
   page: 105948
   publisher: Elsevier
   title: A microplate assay for extracellular hydrolase detection
@@ -3381,7 +3522,8 @@ references:
   container-title: Methods to Determine Enzymatic Activity
   id: damaso2013assay
   issue: 8
-  issued: 2013
+  issued:
+  - year: 2013
   page: 208
   publisher: Bentham Science Publishers
   title: Assay method for transglutaminase activity
@@ -3406,7 +3548,8 @@ references:
     given: Alane Beatriz
   container-title: Talanta
   id: mansoldo2020new
-  issued: 2020
+  issued:
+  - year: 2020
   page: 121238
   publisher: Elsevier
   title: New method for rapid identification and quantification of
@@ -3439,7 +3582,8 @@ references:
   container-title: Arabian Journal of Chemistry
   id: mansur2020photoprotective
   issue: 8
-  issued: 2020
+  issued:
+  - year: 2020
   page: 6741-6752
   publisher: Elsevier
   title: "Photoprotective nanoemulsions containing microbial carotenoids
@@ -3472,7 +3616,8 @@ references:
   container-title: Drug Delivery and Translational Research
   id: dos2020development
   issue: 6
-  issued: 2020
+  issued:
+  - year: 2020
   page: 1552-1570
   publisher: Springer US
   title: Development, characterization, and anti-leishmanial activity of
@@ -3497,7 +3642,8 @@ references:
   - family: CAPASSO
     given: C
   id: pan2013class
-  issued: 2013
+  issued:
+  - year: 2013
   title: A class of sulfonamides with strong inhibitory action against
     the $\alpha$-carbonic anhydrase from trypanosoma cruzi.
   type: article-journal
@@ -3506,7 +3652,8 @@ references:
     given: Dos Santos Matos AP
     suffix: de Oliveira de Siqueira LB
   id: schuenck2020development
-  issued: 2020
+  issued:
+  - year: 2020
   title: Development, characterization and photobiological activity of
     nanoemulsion containing zinc phthalocyanine for oral infections
     treatment.
@@ -3516,7 +3663,8 @@ references:
     given: Cardoso VDS
     suffix: Firpo R
   id: mansoldo2020new
-  issued: 2020
+  issued:
+  - year: 2020
   title: New method for rapid identification and quantification of
     fungal biomass using ergosterol autofluorescence.
   type: article-journal
@@ -3541,7 +3689,8 @@ references:
   container-title: "Colloids and Surfaces A: Physicochemical and
     Engineering Aspects"
   id: castro2021development
-  issued: 2021
+  issued:
+  - year: 2021
   page: 125476
   publisher: Elsevier
   title: Development of hybrid vesicular nanosystems composed of lipids
@@ -3556,7 +3705,8 @@ references:
   container-title: The Open Parasitology Journal
   id: vermelho2010trypanosomatidae
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   title: "Trypanosomatidae family: Biochemical features"
   title-short: Trypanosomatidae family
   type: article-journal
@@ -3581,7 +3731,8 @@ references:
   container-title: Analytical Methods
   id: mansoldo2020quantification
   issue: 45
-  issued: 2020
+  issued:
+  - year: 2020
   page: 5468-5475
   publisher: Royal Society of Chemistry
   title: Quantification of schizophyllan directly from the fermented
@@ -3604,7 +3755,8 @@ references:
   container-title: Molecules
   id: mansoldo2020chagas
   issue: 22
-  issued: 2020
+  issued:
+  - year: 2020
   page: 5483
   publisher: Multidisciplinary Digital Publishing Institute
   title: "Chagas disease: Perspectives on the past and present and
@@ -3635,7 +3787,8 @@ references:
     given: Doneivan
   - literal: others
   id: tiburcio2020desulfovibrio
-  issued: 2020
+  issued:
+  - year: 2020
   title: Desulfovibrio and pseudomonas dominated enriched produced water
     reinforcing their importance in oilfields and production processes
   type: article-journal
@@ -3663,7 +3816,8 @@ references:
   - literal: others
   container-title: Frontiers in Chemistry
   id: garcia2021identification
-  issued: 2021
+  issued:
+  - year: 2021
   page: 1259
   publisher: Frontiers
   title: Identification of chalcone derivatives as inhibitors of
@@ -3691,7 +3845,8 @@ references:
   container-title: FEMS Microbiology Letters
   id: de2006insights
   issue: 1
-  issued: 2006
+  issued:
+  - year: 2006
   page: 149-156
   title: Insights into the role of gp63-like proteins in lower
     trypanosomatids.
@@ -3716,7 +3871,8 @@ references:
   container-title: Microbiology Resource Announcements
   id: campos2016genome
   issue: 6
-  issued: 2016
+  issued:
+  - year: 2016
   publisher: American Society for Microbiology
   title: Genome sequence of KP-rio/2015, a novel klebsiella pneumoniae
     (podoviridae) phage
@@ -3735,7 +3891,8 @@ references:
   container-title: Microbiology Resource Announcements
   id: junia2017draft
   issue: 29
-  issued: 2017
+  issued:
+  - year: 2017
   publisher: American Society for Microbiology
   title: Draft genome sequence of microbacterium sp. Strain LEMMJ01,
     isolated from antarctic ornithogenic soil
@@ -3761,7 +3918,8 @@ references:
   container-title: PARASITOLOGY RESEARCH
   id: rodrigues2010new
   issue: 1
-  issued: 2010
+  issued:
+  - year: 2010
   page: 249-249
   publisher: SPRINGER 233 SPRING ST, NEW YORK, NY 10013 USA
   title: "A new experimental culture medium for cultivation of
@@ -3790,7 +3948,8 @@ references:
   - family: Villa
     given: Ana Lúcia Vazquez
   id: vermelho2013feather
-  issued: 2013
+  issued:
+  - year: 2013
   title: "Feather keratin hydrolysates obtained from microbial
     keratinases: Effect on hair fiber"
   title-short: Feather keratin hydrolysates obtained from microbial
@@ -3821,4 +3980,3 @@ references:
   title: Tutorial for r microeco package (v0. 5.0)
   type: article-journal
 ---
-
