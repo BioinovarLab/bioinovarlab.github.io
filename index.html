@@ -24,7 +24,7 @@ style: fullwidth
             </div>
             <div class="col-sm-6 col-lg-3 mb-3 mb-lg-0">
                 <span class="display-4 text-primary d-block">100+</span>
-                <h6>articles<br><span class="text-muted"></span></h6>
+                <h6>Articles<br><span class="text-muted"></span></h6>
             </div>
             <div class="col-sm-6 col-lg-3 mb-3 mb-lg-0">
                 <span class="display-4 text-primary d-block">10+</span>
@@ -113,7 +113,7 @@ style: fullwidth
                     <div class="text-muted"><small></small></div>
                     <h5 class="card-title">(Bio)Cosmetics</h5>
                     <p class="card-text">
-                        Connect to the MQTT broker instance and start publishing/receiving messages with your devices using the MQTT protocol.
+                        
                     </p>
                 </div>
             </div>
@@ -122,7 +122,7 @@ style: fullwidth
                     <div class="text-muted"><small></small></div>
                     <h5 class="card-title">Bioenergy</h5>
                     <p class="card-text">Projects with companies such as Shell and Petrobras</p>
-                    <a href="" class="btn btn-secondary">Know more</a>
+                    
                 </div>
             </div>
         </div>
@@ -137,14 +137,14 @@ style: fullwidth
             <h1 class="display-4 text-center mt-0">Bioprospecting of microorganisms of biotechnological interest</h1>
         </div>
         <img class="img-fluid" style="width: 100%; max-height: 500px; object-fit: cover;" src="{{ '/assets/images/' | relative_url }}microrganismos_isolados_v1.jpg">
-        <p class="my-4 lead text-center mx-auto w-75">The different boards available bring users several radio technologies. Test radio scenarios with isolation, coexistence, cooperation, interoperability.</p>
+        <p class="my-4 lead text-center mx-auto w-75"></p>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4">
             <div class="col-6 mb-3">
                 <div class="card h-100 card-body">
                     <div class="flex-grow-1">
                         <h3>Biopolymers</h3>
                         <p>
-                            <strong>IEEE 802.15.4</strong> is a technical standard which defines the operation of low-rate wireless personal area networks (LR-WPANs).
+                            
                         </p>
                     </div>
                 </div>
@@ -154,7 +154,7 @@ style: fullwidth
                     <div class="flex-grow-1">
                         <h3>Carotenoids</h3>
                         <p>
-                            <strong>Sub-GHz</strong> radios are operating on Sub GHz ISM bands. In Europe, 868MHZ and 433Mhz bands can be used with these radios.
+                            
                         </p>
                     </div>
                 </div>
@@ -164,8 +164,7 @@ style: fullwidth
                     <div class="flex-grow-1">
                         <h3>Biosurfactants</h3>
                         <p>
-                            <strong>Bluetooth Low Energy</strong> (BLE) is a wireless personal area network technology designed and marketed by the Bluetooth Special Interest Group
-                            (Bluetooth SIG).
+                           
                         </p>
                     </div>
                 </div>
@@ -175,131 +174,10 @@ style: fullwidth
                     <div class="flex-grow-1">
                         <h3>Bioproducts</h3>
                         <p>
-                            <strong>LoRa</strong> is a low-power wide-area network (LPWAN) protocol developed by Semtech and targetting long-range and low-power IoT.
+                            
                         </p>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Multi-platform -->
-<section>
-    <div class="container my-5 py-5">
-        <div class="mb-5">
-            <h1 class="display-2 text-muted text-center mb-0"><strong>Multi-platform</strong></h1>
-            <h1 class="display-4 text-center mt-0">A large choice of hardware boards</h1>
-        </div>
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
-            <div class="col-6 my-3 text-info">
-                <p>
-                    <span class="display-2">{{ site.data.boards.size }}</span><br>
-                    <span class="display-4"> boards available</span>
-                </p>
-            </div>
-            {% assign featured_boards = "IoT-LAB M3, IoT-LAB A8-M3, Microchip SAMR21, Zolertia Firefly, ST B-L072Z-LRWAN1, Nordic nRF52840DK" | split: ", " %}
-            {% for featured in featured_boards %}
-            {% assign board = site.data.boards | where: "name",featured | first %}
-            {% capture color-style %}{% if board.name contains "IoT-LAB"%}primary{% else %}secondary{% endif %}{% endcapture %}
-            <div class="col-6 my-3">
-                <div class="card h-100 border-{{ color-style }}">
-                    <img class="img-fluid"
-                         src="{{ '/assets/images/boards/' | relative_url }}{{ board.board-id }}.jpg"
-                         alt="">
-                    <div class="card-body">
-                        <h5 class="card-title"><a href="{{ '/docs/boards/' | relative_url }}{{ board.name | slugify }}"{% unless board.name contains "IoT-LAB" %} class="text-reset"{% endunless %}>{{ board.name}}</a></h5>
-                        <p class="card-text">
-                        {% for radio in board.radio %}
-                            <span class="badge badge-pill badge-{{ color-style }}" href="#">{{ radio }}</span>
-                        {% endfor %}
-                        </p>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-            <div class="col-6 my-3">
-                <a href="{% link docs/boards/overview.html %}"
-                class="btn btn-outline-info w-100 h-100 d-flex align-items-end justify-content-center">
-                    <h5><i class="fas fa-chevron-right fa-7x"></i> Show all</h5>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Multi-OS -->
-<section>
-    <div class="container my-5 py-5">
-        <div class="my-5">
-            <h1 class="display-2 text-muted text-center mb-0"><strong>Multi-OS</strong></h1>
-            <h1 class="display-4 text-center mt-0">Develop your firmware with your favorite OS</h1>
-        </div>
-        <p class="lead text-center mx-auto w-75">Since you just need to bring your firmware for your experiment, you are free to choose your Operating System. Boards from the market may be supported by one or several. Some OS also supports IoT-LAB boards.</p>
-
-        <!-- <p class="text-center"><a href="#"> Learn more about OS usage <span class="small text-decoration-none"> <i class="fas fa-chevron-right"></i></span></a></p> -->
-
-        <div class="card-columns mt-5">
-        {% for os in site.data.oses %}
-            <div class="card border-0 shadow m-3">
-                <a href="{{ '/docs/os/' | relative_url }}{{ os.name | slugify }}">
-                {% if os.img %}
-                <img class="card-img-top pt-3 px-3" src="{{ '/assets/images/oses/' | relative_url }}{{ os.img }}" class="card-img" title="{{ os.name }}" alt="{{ os.name }}">
-                {% else %}
-                <h4 class="pt-3 text-center">{{ os.name }}</h4>
-                {% endif %}
-                </a>
-                <div class="card-body">
-                    <hr>
-                    <p class="card-text">{{ os.short-desc }}</p>
-                </div>
-                {% assign iotlab-support = os.boards | where_exp:"item", "item contains 'IoT-LAB'" %}
-                {% if iotlab-support.size > 0 %}
-                <div class="card-footer w-100 badge badge-primary">
-                    IoT-LAB board support
-                    {% for board in iotlab-support %}
-                    <a href="{{ '/docs/boards/' | relative_url }}{{ board | slugify }}">
-                      <span class="badge badge-light">{{ board }}</span>
-                    </a>
-                    {% endfor %}
-                </div>
-                {% endif %}
-            </div>
-        {% endfor %}
-        </div>
-    </div>
-</section>
-
-<!-- Multi-topology -->
-<section>
-    <div class="container my-5 py-5">
-        <div class="mb-5">
-            <h1 class="display-2 text-muted text-center mb-0"><strong>Multi-topology</strong></h1>
-            <h1 class="display-4 text-center mt-0">Run your experiment on different physical topologies</h1>
-        </div>
-        <div class="row pt-5">
-            <div class=" col-sm-6 col-md-4 col-lg-3">
-                <h1>Several deployments.<br>Several possibilities.</h1><br>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-                <img class="img-fluid mb-2" src="{{ '/assets/images/sites/' | relative_url }}inria-grenoble-building.jpg" alt="Inria Grenoble building">
-                <h5><a class="text-reset" href="{{ '/docs/deployment/' | relative_url }}grenoble">Grenoble</a></h5>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-                <img class="img-fluid mb-2" src="{{ '/assets/images/sites/' | relative_url }}inria-lille-building.jpg" alt="Inria Lille building">
-                <h5><a class="text-reset" href="{{ '/docs/deployment/' | relative_url }}lille">Lille</a></h5>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-                <img class="img-fluid mb-2" src="{{ '/assets/images/sites/' | relative_url }}citi-lyon-building.jpg" alt="Citi Lyon building">
-                <h5><a class="text-reset" href="{{ '/docs/deployment/' | relative_url }}lyon">Lyon</a></h5>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-                <img class="img-fluid mb-2" src="{{ '/assets/images/sites/' | relative_url }}inria-saclay-building.jpg" alt="Saclay Inria building">
-                <h5><a class="text-reset" href="{{ '/docs/deployment/' | relative_url }}saclay">Saclay</a></h5>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-                <img class="img-fluid mb-2" src="{{ '/assets/images/sites/' | relative_url }}icube-strasbourg-building.jpg" alt="ICube Strasbourg building">
-                <h5><a class="text-reset" href="{{ '/docs/deployment/' | relative_url }}strasbourg">Strasbourg</a></h5>
             </div>
         </div>
     </div>
