@@ -1,7 +1,7 @@
 ---
-title: Bioinovar website
+title: Bioinobar website launch
 ---
-![]({{ '/assets/images/posts/' | relative_url }}fit-logo.png){: .img-fluid }
+![]({{ '/assets/images/2021-10-18-Bioinovar-website/' | relative_url }}logo_bioinovar.jpg){: .img-fluid }
 
 post bioinovar 1
 
