@@ -3,7 +3,7 @@ title: SSH frontends upgrade
 ---
 ![]({{ '/assets/images/posts/' | relative_url }}fit-logo.png){: .img-fluid }
 
-Last Monday, the 18th of January, 2021, all SSH frontends of the IoT-LAB testbed were migrated to the
+teste. Last Monday, the 18th of January, 2021, all SSH frontends of the IoT-LAB testbed were migrated to the
 latest Debian stable version, [Buster](https://www.debian.org/releases/buster/).
 This migration came with the update of several softwares preinstalled on the frontends.
 
