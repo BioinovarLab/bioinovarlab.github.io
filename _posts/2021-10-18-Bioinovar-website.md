@@ -1,15 +1,9 @@
 ---
-title: SSH frontends upgrade
+title: Bioinovar website
 ---
 ![]({{ '/assets/images/posts/' | relative_url }}fit-logo.png){: .img-fluid }
 
-Last Monday, the 18th of January, 2021, all SSH frontends of the IoT-LAB testbed were migrated to the
-latest Debian stable version, [Buster](https://www.debian.org/releases/buster/).
-This migration came with the update of several softwares preinstalled on the frontends.
-
-If you have problems with the new installed versions of tools and toolchains,
-don't hesitate to send an email to `admin@iot-lab.info` or open an issue
-on [https://github.com/iot-lab/iot-lab/issues](https://github.com/iot-lab/iot-lab/issues).
+post bioinovar 1
 
 Here is the list of these changes:
 
